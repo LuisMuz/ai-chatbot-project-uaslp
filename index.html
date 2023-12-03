@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="/Aguila.png" type="image/png">
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="chat-interface">
+        <div class="side-panel">
+            <div class="circle-image">
+                <img src="Aguila.png" alt="UASLP Pet" object-fit="cover" object-position="center">
+            </div>
+            <div class="title">Universidad Autonoma De San Luis Potosi</div>
+            <div class="normal-text"><p>Si tienes alguna duda de como realizar algun tramite o necesitas algun tipo de informacion que este en nuestros reglamentos este chatbot te puede ayudar a extraer esa informacion de manera rapida.</p></div>
+            <div class="small-text">
+                Realizado por:
+                <p>
+                    3 personitas
+                </p>
+            </div>
+        </div>
+        <div class="chat-message-section">
+            <div class="messages">
+                <div class="imessage">
+                    <!-- The chat messages will be inserted here -->
+                </div>
+            </div>
+            <div class="input-container">
+                <input type="text" class="input-field" placeholder="Type your message...">
+                <button class="send-button">Send</button>
+            </div>
+        </div>
+        <button class="round-button" id="toggleButton">
+            <img src="tu_imagen.png" alt="Icono">
+        </button>
+    </div>
+    
+    <script src="chat_interaction.js"></script>
+    <script>
+        // JavaScript para manejar el botón y cambiar la visibilidad del panel lateral
+        document.getElementById('toggleButton').addEventListener('click', function() {
+            var sidePanel = document.querySelector('.side-panel');
+            // Cambia la visibilidad del panel lateral
+            sidePanel.style.display = (sidePanel.style.display === 'none' || sidePanel.style.display === '') ? 'block' : 'none';
+        });
+    </script>
+</body>
+</html>
