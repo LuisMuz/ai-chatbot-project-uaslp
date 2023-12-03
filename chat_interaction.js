@@ -36,3 +36,9 @@ document.querySelector('.send-button').addEventListener('click', function() {
         }, 500);
     }
 });
+
+document.getElementById('toggleButton').addEventListener('click', function() {
+    var sidePanel = document.querySelector('.side-panel');
+    var currentDisplayStyle = window.getComputedStyle(sidePanel).display;
+    sidePanel.style.display = (currentDisplayStyle === 'none') ? '' : 'none';
+});

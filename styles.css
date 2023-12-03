@@ -10,7 +10,7 @@ body {
 
 .chat-interface {
     width: 80%;
-    height: 80%;
+    height: 90%;
     display: flex;
     flex-direction: row;
     background-color: #fff;
@@ -31,6 +31,7 @@ body {
 }
 
 .chat-message-section{
+    position: relative;
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -114,7 +115,7 @@ body {
 
 .send-button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #1224ab;
+    background-color: #007bff;
     color: white;
     padding: 8px 12px;
     border: none;
@@ -195,23 +196,15 @@ p.from-chat::after {
 
 .round-button {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 50px; /* Ajusta el tamaño del botón según tus necesidades */
-    height: 50px;
-    border-radius: 50%; /* Hace que el botón sea redondo */
-    background-color: #007bff; /* Color de fondo del botón */
-    color: #fff; /* Color del texto */
-    border: none; /* Sin borde */
+    width: 10px;
+    height: 50px; 
+    background-color: #e5e5ea;
+    border: none; 
     cursor: pointer;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-}
+    bottom: 50%;
 
-/* Estilos para la imagen dentro del botón */
-.round-button img {
-    width: 100%; /* Ajusta el tamaño de la imagen según el tamaño del botón */
-    height: 100%;
-    border-radius: 50%; /* Hace que la imagen sea redonda */
+    position: absolute;
+    left: 0;
+    margin-left: 10px; 
+    border-radius: 5px;
 }

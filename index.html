@@ -21,9 +21,10 @@
             </div>
         </div>
         <div class="chat-message-section">
+            <button class="round-button" id="toggleButton" aria-label="Toggle"></button>
             <div class="messages">
                 <div class="imessage">
-                    <!-- The chat messages will be inserted here -->
+                    
                 </div>
             </div>
             <div class="input-container">
@@ -31,19 +32,8 @@
                 <button class="send-button">Send</button>
             </div>
         </div>
-        <button class="round-button" id="toggleButton">
-            <img src="tu_imagen.png" alt="Icono">
-        </button>
     </div>
     
     <script src="chat_interaction.js"></script>
-    <script>
-        // JavaScript para manejar el botón y cambiar la visibilidad del panel lateral
-        document.getElementById('toggleButton').addEventListener('click', function() {
-            var sidePanel = document.querySelector('.side-panel');
-            // Cambia la visibilidad del panel lateral
-            sidePanel.style.display = (sidePanel.style.display === 'none' || sidePanel.style.display === '') ? 'block' : 'none';
-        });
-    </script>
 </body>
 </html>
