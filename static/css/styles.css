@@ -58,7 +58,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 10px;
-    flex-grow: 3;
+    /*flex-grow: 1; */
     align-content: center;
 }
 
@@ -209,4 +209,19 @@ p.from-chat::after {
     left: 0;
     margin-left: 10px; 
     border-radius: 5px;
+}
+
+.checkbox-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.checkbox-list label {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-list input[type="checkbox"] {
+    margin-right: 10px;
 }
