@@ -1,0 +1,623 @@
+{
+  "intents": [
+    {
+      "tag": "presentacion",
+      "patterns": [
+        "¿Por que es importante regular las relaciones en una institucion?",
+        "¿Cuales son los componentes que integran la Facultad del Habitat?",
+        "¿Cual es el objetivo del presente reglamento?"
+      ],
+      "response": "Para una institucion es importante regular las distintas relaciones que se tienen entre cada una de las areas de trabajo con las que cuenta la institucion. ..."
+    },
+    {
+      "tag": "disposiciones_generales_organizacion",
+      "patterns": [
+        "¿Cual es el objetivo del TITULO PRIMERO de este reglamento?",
+        "¿Cual es el proposito de establecer normas tecnicas en la Facultad del Habitat?",
+        "¿Cuales son las obligaciones y responsabilidades que establece este articulo?"
+      ],
+      "response": {
+        "ARTÍCULO 1": "El presente reglamento tiene como objetivo el establecer un conjunto de normas técnicas que regulen la estructura del funcionamiento y la vinculación de los distintos elementos que constituyen a la Facultad del Hábitat, con la finalidad expresa de establecer obligaciones, responsabilidades y comportamientos de los integrantes que la conforman como entidad académica de la UASLP."
+      }
+    },
+    {
+      "tag": "articulo_1",
+      "patterns": [
+        "¿Cual es el objetivo principal del ARTICULO 1?",
+        "¿Que aspectos regula el presente reglamento segun el ARTICULO 1?",
+        "¿Como se define la Facultad del Habitat en este articulo?"
+      ],
+      "response": "El presente reglamento tiene como objetivo el establecer un conjunto de normas tecnicas que regulen la estructura del funcionamiento y la vinculacion de los distintos elementos que constituyen a la Facultad del Habitat, con la finalidad expresa de establecer obligaciones, responsabilidades y comportamientos de los integrantes que la conforman como entidad academica de la UASLP."
+    },
+    {
+      "tag": "articulo_2",
+      "patterns": [
+        "¿Cual es el proposito de la Facultad del Habitat segun el ARTICULO 2?",
+        "¿Que actividades aborda la Facultad del Habitat como entidad academica?",
+        "¿Cual es la mision principal de la Facultad?"
+      ],
+      "response": "La Facultad del Habitat, es una entidad academica de la Universidad Autonoma de San Luis Potosi, que tiene por objeto, la formacion de profesionales e investigadores en el campo del pensamiento, del diseno y la materializacion del entorno construido por el hombre y la sociedad; la investigacion cientifica en las areas que conforman el marco natural y artificial del habitat, y la difusion del conocimiento de las ciencias, humanidades, artes y tecnologias aplicadas al mejoramiento de la vida del hombre."
+    },
+    {
+      "tag": "articulo_3",
+      "patterns": [
+        "¿Cual es la mision de la Facultad del Habitat segun el ARTICULO 3?",
+        "¿Como aborda la Facultad el problema del habitat?",
+        "¿Cual es el principio fundamental de preocupacion de la Facultad?"
+      ],
+      "response": "La Facultad tiene como mision, crear el medio habitable del hombre y la sociedad, a traves de la formacion de profesionales que coadyuven en su adecuacion, preservacion, transformacion, desarrollo y realizacion. Aborda el problema del habitat como totalidad, teniendo como principio y como fin ultimo de preocupacion el entorno del hombre."
+    },
+    {
+      "tag": "articulo_4",
+      "patterns": [
+        "¿Cual es la vision de la Facultad del Habitat segun el ARTICULO 4?",
+        "¿Que capacidades se esperan de los profesionales formados por la Facultad?",
+        "¿Como se vincula la Facultad con la sociedad segun este articulo?"
+      ],
+      "response": "La Facultad tiene como vision, ser una entidad academica con reconocimiento nacional e internacional, en la cual se formen profesionales capaces de identificar y resolver los problemas de diseno, construccion y conservacion que existen en el medio habitable del hombre; con capacidad de generar y difundir el nuevo conocimiento, vinculandose con la sociedad mediante una vision global diversificada e innovadora."
+    },
+    {
+      "tag": "articulo_5",
+      "patterns": [
+        "¿Cuales son los objetivos fundamentales segun el ARTICULO 5?",
+        "¿Como se define la transformacion del medio habitable del hombre segun este articulo?",
+        "¿Cuales son los tipos de entrenamiento en la formacion de profesionales e investigadores?"
+      ],
+      "response": "Objetivos fundamentales:La transformacion del medio habitable del hombre, su creacion, desarrollo, realizacion y preservacion para dar una respuesta etica y asegurar un habitat sustentable. Se establecen cuatro tipos de entrenamiento en la formacion de sus profesionistas e investigadores: En respuesta social. En toma de decisiones realizables. En sintesis estetica. En pensamiento critico."
+    },
+    {
+      "tag": "articulo_6",
+      "patterns": [
+        "¿Cual es el proposito de formar profesionistas segun el ARTICULO 6?",
+        "¿En que areas se forma a los profesionistas de la Facultad del Habitat segun este articulo?",
+        "¿Que preparacion se otorga a los profesionistas para dar respuestas a las necesidades del habitat?"
+      ],
+      "response": "La Facultad del Habitat forma profesionistas en areas del pensamiento, del diseno y la materializacion, para la realizacion y preservacion del medio habitable del hombre, otorgando una preparacion que les permita dar respuestas a las necesidades del habitat del hombre y la sociedad."
+    },
+    {
+      "tag": "articulo_7",
+      "patterns": [
+        "¿A que responden los programas que se imparten en la Facultad segun el ARTICULO 7?",
+        "¿Cual es la necesidad que busca satisfacer la Facultad a traves de sus programas?",
+        "¿En que areas se enfocan los programas de la Facultad del Habitat?"
+      ],
+      "response": "Los programas que se imparten en la Facultad, responden a la necesidad de ofrecer profesionistas, capaces de dar solucion al medio habitable del hombre y la sociedad, en el diseno, materializacion, conservacion y restauracion del espacio arquitectonico, urbano y del paisaje, de los objetos y de la comunicacion visual."
+    },
+    {
+      "tag": "articulo_8",
+      "patterns": [
+        "¿Cuales son las bases y principios fundamentales segun el ARTICULO 8?",
+        "¿Que garantiza el ARTICULO 8 en las actividades y existencia de la Facultad?",
+        "¿En que normas se fundamenta la libertad de catedra y de investigacion?"
+      ],
+      "response": "Son bases y principios fundamentales de las actividades y existencia de la Facultad, la libertad de catedra y de investigacion, y la libre discusion de las ideas, dentro de las normas que establece la Institucion y sin detrimento del cumplimiento de sus planes y programas de estudio."
+    },
+    {
+      "tag": "articulo_9",
+      "patterns": [
+        "¿En que principio se sustenta la Facultad segun el ARTICULO 9?",
+        "¿Como se describe la totalidad de la Facultad segun este articulo?",
+        "¿Que condiciona las funciones especificas de los elementos de la Facultad?"
+      ],
+      "response": "La Facultad esta sustentada en el principio de Sintesis por lo que constituye una totalidad formada por elementos heterogeneos e interdependientes, donde cada uno desempena funciones especificas senaladas en este Reglamento, que estan condicionadas por el todo y es el fundamento de la actividad interdisciplinaria del personal docente, investigadores y alumnos."
+    },
+    {
+      "tag": "articulo_10",
+      "patterns": [
+        "¿Cuales son las tres funciones fundamentales de la Facultad segun el ARTICULO 10?",
+        "¿Como se dividen las funciones de la Facultad segun este articulo?",
+        "¿Que actividades contempla la Facultad como parte de sus funciones fundamentales?"
+      ],
+      "response": "La Facultad contempla tres funciones fundamentales: I. La formacion de profesionales. II. La investigacion cientifica. III. La difusion de la cultura."
+    },
+    {
+      "tag": "articulo_11",
+      "patterns": [
+        "¿Como se realiza la formacion de profesionales segun el ARTICULO 11?",
+        "¿Cuales son las modalidades de formacion que ofrece la Facultad segun este articulo?",
+        "¿En que consisten los programas de estudios de la Facultad?"
+      ],
+      "response": "La formacion de profesionales se realiza a traves de las licenciaturas y estudios de posgrado que ofrece la Facultad con programas propios y/o en acuerdo con instituciones nacionales e internacionales."
+    },
+    {
+      "tag": "articulo_12",
+      "patterns": [
+        "¿En que niveles se realiza la investigacion segun el ARTICULO 12?",
+        "¿Como se estructuran los departamentos de investigacion academica segun este articulo?",
+        "¿Cual es el objeto de los departamentos de investigacion academica?"
+      ],
+      "response": "La investigacion se realiza en dos niveles:\nI.- El que se desarrolla dentro de los departamentos de investigacion academica, que integran el conocimiento de los marcos natural y artificial del habitat humano, para lo cual se han establecido tres departamentos especificos:\na) El Departamento de Estudios del Hombre de la Sociedad.\nb) El Departamento de Estudios del Arte y Diseno.\nc) El Departamento de Estudios de la Tecnica y la Tecnologia.\nLos departamentos de investigacion academica tienen por objeto, la generacion de los conocimientos para el aprendizaje propios de su estudio, son los responsables de la administracion y actualizacion del conocimiento de los programas educativos de licenciatura, para que este conocimiento sea sintetizado en la especificidad de las carreras.\nII.- El que se realiza en el Instituto de Investigacion y Posgrado."
+    },
+    {
+      "tag": "articulo_13",
+      "patterns": [
+        "¿Quienes integran la Facultad segun el ARTICULO 13?",
+        "¿Cuales son los elementos que forman parte de la Facultad segun este articulo?",
+        "¿Como se define la composicion de la Facultad?"
+      ],
+      "response": "La Facultad esta integrada por sus autoridades, personal academico y personal administrativo."
+    },
+    {
+      "tag": "articulo_14",
+      "patterns": [
+        "¿Como se organiza la Facultad segun el ARTICULO 14?",
+        "¿Cuales son las divisiones de la estructura organizacional de la Facultad segun este articulo?",
+        "¿En cuantas secciones se divide la organizacion de la Facultad?"
+      ],
+      "response": "La Facultad cuenta con la siguiente estructura organizacional:\nI. Del Gobierno.\nII. De la Organizacion Administrativa.\nIII. De la Organizacion Academica.\nIV. De la Investigacion y el Posgrado.\nV. De la Organizacion Escolar.\nVI. De la Extension, Vinculacion y Planeacion."
+    },
+    {
+      "tag": "ARTICULO_15",
+      "patterns": [
+        "¿Cuales son los organos de consulta y de apoyo del Gobierno segun el ARTICULO 15?",
+        "Explique la Direccion segun el ARTICULO 15.",
+        "¿Que se menciona sobre la Secretaria General en el ARTICULO 15?",
+        "Diga algo sobre el Consejo Tecnico Consultivo segun el ARTICULO 15.",
+        "¿Cual es el papel de la Comision Academica segun el ARTICULO 15?",
+        "Hable sobre la Administracion segun el ARTICULO 15."
+      ],
+      "response": "Del Gobierno, sus organos de consulta y de apoyo:\nI. La Direccion.\nII. La Secretaria General.\nIII. El Consejo Tecnico Consultivo.\nIV. La Comision Academica.\nV. La Administracion."
+    },
+    {
+      "tag": "ARTICULO_16",
+      "patterns": [
+        "¿Cual es la estructura del ARTICULO 16?",
+        "Hableme sobre la Secretaria Academica segun el ARTICULO 16.",
+        "Explique los diferentes departamentos en el ARTICULO 16.",
+        "¿Cuales son los campos academicos mencionados en el ARTICULO 16?",
+        "Digame algo sobre los programas en el ARTICULO 16.",
+        "¿Que unidades educativas se mencionan en el ARTICULO 16?"
+      ],
+      "response": "La Secretaria Academica, Departamentos (Estudios del Hombre y de la Sociedad, Estudios del Arte y Diseno, Estudios de la Tecnica y la Tecnologia), Campos Academicos (Interdisciplinar, Transversal, Sintesis, Comun, Socio-Humanistico, Administracion y Gestion, Arte y Expresion, Tecnica y Estructura, Teoria y Metodo, Ciencia y Tecnologia), Programas (Arquitectura, Diseno Grafico, Diseno Industrial, Edificacion y Administracion de Obras, Diseno Urbano y del Paisaje, Conservacion y Restauracion de Bienes Culturales Muebles), Departamento de Investigacion Educativa (DIEZ), Centro de produccion de material didactico, Departamento de Educacion Continua."
+    },
+    {
+      "tag": "ARTICULO_17",
+      "patterns": [
+        "Hableme sobre la Coordinacion General de Posgrado segun el ARTICULO 17.",
+        "Explique la funcion de la Coordinacion de Investigacion en el ARTICULO 17.",
+        "¿Cual es el papel del Consejo de Posgrado segun el ARTICULO 17?",
+        "Digame algo sobre los Comites Academicos mencionados en el ARTICULO 17.",
+        "¿Que se menciona acerca de los Cuerpos Academicos en el ARTICULO 17?",
+        "Hableme sobre las Coordinaciones de los Programas segun el ARTICULO 17.",
+        "¿Como se rige la organizacion de Posgrado segun el Reglamento?"
+      ],
+      "response": "De la Investigacion y Posgrado: La Coordinacion General de Posgrado, Coordinacion de Investigacion, Consejo de Posgrado, Comites Academicos, Cuerpos Academicos, Coordinaciones de los Programas. Reglamento: La organizacion de Posgrado se rige por lo dispuesto en el Reglamento General de Estudios de Posgrado de la Universidad."
+    },
+    {
+      "tag": "ARTICULO_18",
+      "patterns": [
+        "Hableme sobre la Secretaria Escolar segun el ARTICULO 18.",
+        "Explique la funcion del Departamento Escolar en el ARTICULO 18.",
+        "¿Que se menciona acerca del Departamento de Servicio Social en el ARTICULO 18?",
+        "Digame algo sobre el Departamento de Practicas Profesionales segun el ARTICULO 18.",
+        "Hableme sobre el papel del Departamento de la Formacion Integral del Estudiante segun el ARTICULO 18.",
+        "¿Que funciones tiene el Departamento de Tutorias segun el ARTICULO 18?",
+        "Digame algo sobre el Departamento de Psicologia y Orientacion Educativa segun el ARTICULO 18."
+      ],
+      "response": "De la Organizacion Escolar: La Secretaria Escolar, que incluye el Departamento Escolar, Departamento de Servicio Social, Departamento de Practicas Profesionales, Departamento de la Formacion Integral del Estudiante, Departamento de Tutorias, y Departamento de Psicologia y Orientacion Educativa."
+    },
+    {
+      "tag": "ARTICULO_20",
+      "patterns": [
+        "¿Cual es el papel del director segun el ARTICULO 20?",
+        "Explique la autoridad academica y administrativa del director en el ARTICULO 20.",
+        "¿Cuales son las responsabilidades del director segun el ARTICULO 20?",
+        "Hableme sobre la estructura general a cargo del director segun el ARTICULO 20.",
+        "¿Que disposiciones debe cumplir el director segun el ARTICULO 20?",
+        "¿Como se mencionan las resoluciones del H. Consejo Directivo Universitario en el ARTICULO 20?",
+        "Digame algo sobre los acuerdos del rector segun el ARTICULO 20."
+      ],
+      "response": "El director es la autoridad academica y administrativa, responsable de la estructura general, del cumplimiento de las disposiciones senaladas en el Estatuto Organico de la Universidad, en las resoluciones expedidas por el H. Consejo Directivo Universitario y en los acuerdos del rector."
+    },
+    {
+      "tag": "ARTICULO_21",
+      "patterns": [
+        "¿Cuales son los requisitos del ARTICULO 21?",
+        "Explique el primer requisito del ARTICULO 21.",
+        "Hableme sobre el segundo requisito del ARTICULO 21.",
+        "¿Cual es el tercer requisito del ARTICULO 21?",
+        "Digame algo sobre el cuarto requisito del ARTICULO 21.",
+        "¿Como se menciona la antiguedad como requisito en el ARTICULO 21?",
+        "Hableme sobre el sexto requisito del ARTICULO 21."
+      ],
+      "response": "Requisitos para el director de la Facultad. Ser preferentemente mexicano. Tener titulo de licenciatura expedido por una institucion de educacion superior, reconocida por la Secretaria de Educacion Publica. Ejercicio profesional minimo de cinco anos. No desempenar ningun cargo politico o puestos de eleccion gremial durante sus funciones, ni ser funcionario o empleado publico. Ser profesor de esta Facultad con una antiguedad minima de cinco anos. Haberse distinguido en su profesion y gozar de estimacion general como persona honorable, prudente y de espiritu universitario."
+    },
+    {
+      "tag": "ARTICULO_22",
+      "patterns": [
+        "¿Cuales son las responsabilidades del director segun el ARTICULO 22?",
+        "Explique la aplicacion de acciones segun el ARTICULO 22.",
+        "Hableme sobre el establecimiento de mecanismos de control segun el ARTICULO 22.",
+        "¿Como se gestionan e implementan los recursos segun el ARTICULO 22?",
+        "Digame algo sobre el diseno de estrategias de financiamiento externo segun el ARTICULO 22.",
+        "¿Cual es el papel del director en la superacion del personal academico y administrativo segun el ARTICULO 22?",
+        "¿Como se proponen los nombramientos al personal academico y administrativo segun el ARTICULO 22?",
+        "Explique la promocion y gestion de la vinculacion segun el ARTICULO 22.",
+        "¿Que responsabilidades tiene el director respecto a las sesiones y convocatorias segun el ARTICULO 22?",
+        "Hableme sobre la implementacion y supervision del Plan de Desarrollo de la Facultad segun el ARTICULO 22.",
+        "¿Como se formalizan los procedimientos y sistemas organizacionales segun el ARTICULO 22?",
+        "¿Cual es el papel del director en la autorizacion de participacion en actividades locales, nacionales e internacionales segun el ARTICULO 22?",
+        "¿Como se autorizan los permisos al personal segun el ARTICULO 22?",
+        "Explique la aplicacion de sanciones y resolucion de conflictos internos segun el ARTICULO 22."
+      ],
+      "response": "Responsabilidades del director de la Facultad. Aplicar las acciones del Plan de Desarrollo Academico, establecer mecanismos de control, gestionar recursos, disenar estrategias de financiamiento externo, promover la superacion del personal, proponer nombramientos, promover y gestionar la vinculacion, convocar y presidir sesiones, implementar el Plan de Desarrollo, formalizar procedimientos organizacionales, autorizar participacion en actividades, autorizar permisos, aplicar sanciones y resolver conflictos internos."
+    },
+    {
+      "tag": "ARTICULO_23",
+      "patterns": [
+        "¿Cuales son los centros y departamentos mencionados en el ARTICULO 23?",
+        "Hableme sobre el Centro de Diseno y Vinculacion segun el ARTICULO 23.",
+        "Explique el papel del Centro de Investigacion del ambiente y del Habitat (CIAHAB) segun el ARTICULO 23.",
+        "¿Que funciones tiene el Centro de Diseno Editorial y Multimedia (CEDEM) segun el ARTICULO 23?",
+        "Digame algo sobre el Observatorio Urbano Local mencionado en el ARTICULO 23.",
+        "¿Cual es el papel del Departamento de Informacion y Difusion segun el ARTICULO 23?",
+        "Hableme sobre el Centro de Documentacion e Investigacion Grafica (Casa Cartel) segun el ARTICULO 23.",
+        "Explique las funciones del Centro de Estudios y Documentacion de Urbanismo, Arquitectura y Diseno (CEDUADI) segun el ARTICULO 23.",
+        "¿Cual es el papel del Departamento de Tecnologias de la Informacion y Computacion segun el ARTICULO 23?"
+      ],
+      "response": "Centros y departamentos de la Facultad. a. Centro de Diseno y Vinculacion. b. Centro de Investigacion del ambiente y del Habitat (CIAHAB). c. Centro de Diseno Editorial y Multimedia (CEDEM). d. Observatorio Urbano Local. e. Departamento de Informacion y Difusion. f. Centro de Documentacion e Investigacion Grafica (Casa Cartel). g. Centro de Estudios y Documentacion de Urbanismo, Arquitectura y Diseno (CEDUADI). h. Departamento de Tecnologias de la Informacion y Computacion."
+    },
+    {
+      "tag": "ARTICULO_24",
+      "patterns": [
+        "¿Cual es el papel del Consejo Tecnico Consultivo segun el ARTICULO 24?",
+        "Explique la funcion del Consejo Tecnico Consultivo como organo de consulta y asesoria segun el ARTICULO 24.",
+        "¿Como se describe la relacion entre el Consejo Tecnico Consultivo, la Comision Academica y la Direccion segun el ARTICULO 24?"
+      ],
+      "response": "El Consejo Tecnico Consultivo es un organo de consulta, asesoria y representativo en lo academico de la comunidad de sus profesores, investigadores y alumnos. Conforma, junto con la Comision Academica y la Direccion, la sintesis general de la Facultad y es el nexo final entre sus elementos."
+    },
+    {
+      "tag": "ARTICULO_25",
+      "patterns": [
+        "Explique la constitucion del Consejo Tecnico Consultivo segun el ARTICULO 25.",
+        "¿Quienes forman parte del Consejo Tecnico Consultivo segun el ARTICULO 25?"
+      ],
+      "response": [
+        "Director",
+        "Secretario General",
+        "Coordinador General de Posgrado",
+        "Consejero maestro",
+        "Consejero alumno, representantes ante el Consejo Directivo Universitario",
+        "Cuatro profesores reelegibles, representantes del personal académico de la Facultad",
+        "Presidente de la Sociedad de Alumnos",
+        "Consejero Técnico Maestro representante del personal académico de cada carrera de licenciatura",
+        "Consejero Técnico Maestro representante del personal académico de posgrado",
+        "Consejero técnico alumno, representante de los alumnos de cada carrera de licenciatura",
+        "Consejero técnico alumno, representante de los alumnos de posgrado",
+        "El Secretario Académico y el Secretario de Servicios Escolares, participarán en el H. Consejo Técnico Consultivo como asesores con voz y no tendrán voto"
+      ]
+    },
+    {
+      "tag": "ARTICULO_26",
+      "patterns": [
+        "¿Cual es el papel del Secretario General segun el ARTICULO 26?",
+        "Explique la funcion del Secretario General en el archivo del Consejo Tecnico Consultivo segun el ARTICULO 26.",
+        "¿Cuando tendra voz el Secretario General en las sesiones del Consejo segun el ARTICULO 26?"
+      ],
+      "response": "El Secretario General llevara el archivo del Consejo Tecnico Consultivo, autorizara sus actas y dara fe de sus acuerdos. En las sesiones del Consejo tendra voz solamente."
+    },
+    {
+      "tag": "ARTICULO_27",
+      "patterns": [
+        "Explique el proceso de eleccion de representantes segun el ARTICULO 27.",
+        "¿Cuanto tiempo duraran en funcion los representantes al Consejo Directivo segun el ARTICULO 27?",
+        "¿Como se eligen y cuanto tiempo duran en funciones el representante de la Sociedad de Alumnos y los consejeros tecnicos alumnos segun el ARTICULO 27?"
+      ],
+      "response": "La eleccion de los representantes se realiza cada cuatro anos en marzo de los anos de terminacion par. Los representantes al Consejo Directivo duraran en funcion dos anos y se elegiran en el mes de marzo de los anos de terminacion impar. El representante de la Sociedad de Alumnos y los consejeros tecnicos alumnos duraran en funciones dos anos y se elegiran en el mes de marzo de terminacion par."
+    },
+    {
+      "tag": "ARTICULO_28",
+      "patterns": [
+        "¿Cual es el quorum necesario para el Consejo Tecnico segun el ARTICULO 28?",
+        "Explique como se valida un acuerdo del Consejo Tecnico segun el ARTICULO 28.",
+        "¿Bajo que circunstancias el Director tendra voto de calidad segun el ARTICULO 28?"
+      ],
+      "response": "El Consejo Tecnico tendra quorum con la mayoria de sus integrantes. La validez de sus acuerdos sera por mayoria de votos. En todos los casos, el Director tendra voto de calidad."
+    },
+    {
+      "tag": "ARTICULO_29",
+      "patterns": [
+        "¿Cuales son las causas para perder el caracter de consejero segun el ARTICULO 29?",
+        "Explique las causas relacionadas con la pertenencia a la Facultad segun el ARTICULO 29.",
+        "¿Como se establecen las sanciones temporales o definitivas segun el ARTICULO 29?",
+        "Hableme sobre la perdida del caracter de consejero por falta de asistencia segun el ARTICULO 29.",
+        "¿Que condiciones llevan a la perdida del caracter de consejero segun el ARTICULO 29?",
+        "¿Cuando se pierde el caracter de consejero en el caso del Director, Secretario General y Coordinador General de Posgrado segun el ARTICULO 29?",
+        "¿Como se relacionan los actos contrarios a la autonomia con la perdida del caracter de consejero segun el ARTICULO 29?"
+      ],
+      "response": "Causas para perder el caracter de consejero - Por dejar de pertenecer a la Facultad, como alumno o como profesor. Por faltas graves y de responsabilidad universitaria, que ameriten sanciones temporales o definitivas. Por falta de asistencia sin causa justificada a tres sesiones consecutivas o a seis en el lapso de un ano. Cuando haya dejado de desempenar el cargo que lo acredita como integrante del Consejo Tecnico Consultivo. Por dejar de desempenar el cargo, en el caso del Director, del Secretario General y el Coordinador General de Posgrado. Por realizar actos contrarios a la autonomia, al principio de libertad de catedra o de investigacion, al decoro o prestigio de la Universidad, aun cometidos fuera de esta."
+    },
+    {
+      "tag": "ATRIBUCIONES_CONSEJO_TECNICO",
+      "patterns": [
+        "¿Cuales son las atribuciones del H. Consejo Tecnico Consultivo?",
+        "Explique las responsabilidades del Consejo Tecnico Consultivo segun el articulo 54 del Estatuto Organico."
+      ],
+      "response": "Atribuciones del H. Consejo Tecnico Consultivo: Conoce, analiza y emite su opinion sobre planes, programas de estudio, reglamento interno, manuales de organizacion, plan de desarrollo academico, asuntos academicos o administrativos, cupos de admision, programa y calendario interno, y conducta de la comunidad de la Facultad."
+    },
+    {
+      "tag": "ARTICULO_33",
+      "patterns": [
+        "¿Cuales son los requisitos para los consejeros del personal academico segun el ARTICULO 33?",
+        "Explique los criterios que deben cumplir los consejeros del personal academico segun el ARTICULO 33."
+      ],
+      "response": "Requisitos para los consejeros del personal academico - Ser preferentemente mexicano. Tener titulo de licenciatura reconocido por la SEP. Estar en ejercicio academico con antiguedad minima de tres anos lectivos en la Facultad. No desempenar cargo administrativo en la Universidad al tiempo de la eleccion ni durante el desempeno del cargo. No ser alumno de licenciatura de la Universidad. Gozar de fama como persona honorable, prudente y de espiritu universitario."
+    },
+    {
+      "tag": "ARTICULO_34",
+      "patterns": [
+        "¿Cuales son los requisitos para los consejeros alumnos segun el ARTICULO 34?",
+        "Explique los criterios que deben cumplir los consejeros alumnos segun el ARTICULO 34."
+      ],
+      "response": "Requisitos para los consejeros alumnos - Ser preferentemente mexicano. Ser alumno de la Facultad con antiguedad minima de dos anos el propietario y de uno el suplente. Ser alumno regular. No ser integrante del personal academico ni desempenar puesto administrativo en la Universidad al ser electo o durante el cargo. Denotar buena conducta y haberse distinguido como persona honorable y de espiritu universitario. No haberse inscrito mas de una vez en materias del semestre lectivo por causa de reprobacion o sancion."
+    },
+    {
+      "tag": "ARTICULO_35",
+      "patterns": [
+        "¿Como se determina la pertinencia de los comites segun el ARTICULO 35?",
+        "Explique el proceso para la integracion y desintegracion de comites segun el ARTICULO 35."
+      ],
+      "response": "Pertinencia de Comites - Por necesidades de la Facultad y con el acuerdo de la direccion de la Facultad del Habitat se podran integrar los comites que sean pertinentes para la organizacion de actividades, elaboracion de diagnosticos academicos o administrativos. Una vez que se cumpla con el objetivo de los mismos se desintegrara el comite respectivo."
+    },
+    {
+      "tag": "ARTICULO_36",
+      "patterns": [
+        "¿Cual es el proposito y funcion de la Comision Academica segun el ARTICULO 36?",
+        "Explique el papel de la Comision Academica en la Facultad segun el ARTICULO 36."
+      ],
+      "response": "La Comision Academica es un cuerpo colegiado, representativo de los niveles de licenciatura y posgrado de la Facultad. Es el nexo conceptual y operativo de la estructura y tiene como finalidad la planeacion, programacion y organizacion de las actividades academicas generales de la entidad. Tiene ademas el caracter de organo de consulta y asesoria tecnica y cientifica, para la evaluacion de las iniciativas y proyectos academicos, que deberan someterse a su consideracion, para ser presentados ante el Consejo Tecnico Consultivo y el H. Consejo Directivo Universitario."
+    },
+    {
+      "tag": "ARTICULO_37",
+      "patterns": [
+        "¿Quienes integran la Comision Academica segun el ARTICULO 37?",
+        "Explique la composicion de la Comision Academica segun el ARTICULO 37."
+      ],
+      "response": "Comision Academica estara integrada por: A) El Director quien fungira como su Presidente. B) El Secretario Academico, quien fungira como su Secretario Tecnico. C) El Coordinador General de Posgrado. D) El Coordinador de Investigacion. E) Los Coordinadores de las Carreras. F) Los Jefes de los Departamentos de Investigacion Academicos. G) Los Jefes de los campos Curriculares. H) El Secretario de Servicios Escolares."
+    },
+    {
+      "tag": "ARTICULO_38",
+      "patterns": [
+        "¿Como se determina el quorum y la validez de los acuerdos en la Comision Academica segun el ARTICULO 38?",
+        "Explique las condiciones para el quorum y la validez de los acuerdos en la Comision Academica segun el ARTICULO 38."
+      ],
+      "response": "La Comision Academica tendra quorum con la mayoria de sus integrantes. La validez de sus acuerdos sera por mayoria de votos de los asistentes a la sesion."
+    },
+    {
+      "tag": "ARTICULO_39",
+      "patterns": [
+        "¿Como se estructuran las sesiones de la Comision Academica segun el ARTICULO 39?",
+        "Explique el funcionamiento de las sesiones ordinarias y extraordinarias de la Comision Academica segun el ARTICULO 39."
+      ],
+      "response": "La Comision Academica sesionara en forma ordinaria y en las extraordinarias que sean necesarias."
+    },
+    {
+      "tag": "ARTICULO_40",
+      "patterns": [
+        "¿Que sucede al final de cada sesion de la Comision Academica segun el ARTICULO 40?",
+        "Explique el procedimiento de levantar actas en las sesiones de la Comision Academica segun el ARTICULO 40."
+      ],
+      "response": "En todas las sesiones de la Comision Academica, se levantara un acta que debera ser firmada en la sesion siguiente por los integrantes que hubieren asistido."
+    },
+    {
+      "tag": "ARTICULO_41",
+      "patterns": [
+        "¿Como se manejan los acuerdos de la Comision Academica segun el ARTICULO 41?",
+        "Explique el proceso de presentacion de acuerdos de la Comision Academica al Consejo Tecnico Consultivo segun el ARTICULO 41."
+      ],
+      "response": "Los acuerdos de la Comision Academica seran presentados por la Direccion al Consejo Tecnico Consultivo para su analisis y opinion."
+    },
+    {
+      "tag": "ARTICULO_42",
+      "patterns": [
+        "¿Cuales son las funciones de la Comision Academica segun el ARTICULO 42?",
+        "Explique las responsabilidades de la Comision Academica segun el ARTICULO 42."
+      ],
+      "response": "Comision Academica - Funciones: I) Elaborar el Plan de Desarrollo de la Entidad a corto, mediano y largo plazo. II) Elaborar programas y organizar actividades academicas, curriculares, extracurriculares, de investigacion para la docencia, cursos de actualizacion y formacion docente, asi como eventos academicos locales, regionales, nacionales e internacionales, de acuerdo al Plan de Desarrollo de la Entidad. III) Presentar ante el Consejo Tecnico Consultivo las reformas, planes y programas de estudio de las Carreras para su analisis y opinion. IV) Presentar ante el Consejo Tecnico Consultivo los sistemas pedagogicos, mecanica operativa del proceso de ensenanza-aprendizaje y tecnicas y sistemas de evaluacion del conocimiento para su analisis y opinion. V) Analizar y evaluar las iniciativas, asuntos y proyectos de caracter academico que se sometan a su consideracion. VI) Analizar y evaluar periodicamente los planes de estudio y los contenidos de las carreras."
+    },
+    {
+      "tag": "ARTICULO_43",
+      "patterns": [
+        "¿Cual es el papel y funcion de la Secretaria General segun el ARTICULO 43?",
+        "Explique los requisitos para ocupar la Secretaria General segun el ARTICULO 43."
+      ],
+      "response": "La Secretaria General es la dependencia de apoyo de la Direccion, encargada de la organizacion y despacho de asuntos de caracter academico y administrativo de la Facultad. Ademas, vigila la aplicacion del buen gobierno de la Facultad del Habitat y el cumplimiento de la disciplina por parte de alumnos, maestros, personal administrativo y de intendencia. Requisitos para ocupar la Secretaria General: I) Ser preferentemente mexicano. II) Tener titulo de licenciatura expedido por una institucion de educacion superior reconocida por la Secretaria de Educacion Publica. III) Ser profesor universitario con una antiguedad minima de 5 anos. IV) No desempenar ningun cargo politico durante sus funciones, ni ser empleado o funcionario publico. V) No tener ningun puesto de representacion gremial. VI) Desempenar su cargo con responsabilidad y dedicacion plena, por lo que sus labores docentes no podran exceder de 10 hrs. semana."
+    },
+    {
+      "tag": "ARTICULO_44",
+      "patterns": [
+        "¿Cuales son las funciones y atribuciones de la Secretaria General segun el ARTICULO 44?",
+        "Explique las responsabilidades de la Secretaria General segun el ARTICULO 44."
+      ],
+      "response": "Secretaria General - Funciones y atribuciones: I) Colaborar con la Direccion en la realizacion y ejecucion del Plan de Desarrollo de la Entidad. II) Elaborar los programas semestrales de actividades generales de la Facultad, de acuerdo al calendario anual aprobado por el Consejo Directivo. III) Elaborar el presupuesto anual de la Facultad, para ser presentado ante la Direccion. IV) Coordinar la organizacion de las actividades de apoyo administrativo para la imparticion de cursos curriculares, extracurriculares, actividades y eventos de caracter academico-cultural, cursos de actualizacion y formacion docente. V) Recibir las solicitudes de permisos y licencias de personal academico y administrativo para ser presentadas ante la Direccion para su tramite correspondiente. VI) Establecer y aplicar sistemas de registro de las actividades del personal academico y administrativo, de acuerdo a los lineamientos generales senalados por la normativa universitaria. VII) Dejar constancia de los actos y hechos suscitados dentro de la Facultad, relativos al personal academico, administrativo y de los alumnos. VIII) Fungir como Secretario en las sesiones de Consejo Tecnico Consultivo, llevar el archivo, levantar acta y dar fe de los acuerdos. IX) Comunicar por escrito a los interesados, sobre los acuerdos del H. Consejo Directivo Universitario y del Consejo Tecnico Consultivo, asi como las disposiciones del Rector y de la Direccion. X) Vigilar la organizacion y control de archivos generales y especificos de la Facultad. XI) Extender constancias al personal academico y administrativo, por labores desempenadas al servicio de la Facultad, excepto de antiguedad y definitividad. XII) Justificar inasistencias al personal que labora en la Facultad, por caso fortuito o fuerza mayor, siempre y cuando este contemplado en el Reglamento de Permisos, Licencias y Comisiones de la Universidad. XIII) Reportar ante las dependencias universitarias correspondientes, las inasistencias del personal academico. XIV) Analizar, evaluar y opinar sobre los asuntos de su competencia, que sean turnados por la Direccion. XV) Realizar las tareas que le sean encomendadas por la Direccion. XVI) Representar al Director en su ausencia, en las sesiones del H. Consejo Directivo y en otros actos y eventos de caracter academico y administrativo. XVII) Revisar y acordar en coordinacion con la Secretaria Academica e Instituto de Investigacion y Posgrado, segun sea el caso, la planta de maestros que impartiran los cursos semestrales, para ser presentados a la Direccion. XVIII) Vigilar el cumplimiento de la disciplina por parte de los integrantes de la comunidad del Habitat."
+    },
+    {
+      "tag": "ARTICULO_45",
+      "patterns": [
+        "¿Que apoyos tiene la Secretaria General?",
+        "Explique los recursos de apoyo para la Secretaria General."
+      ],
+      "response": "La Secretaria General, para el cumplimiento de sus funciones y atribuciones, contara con el apoyo de: A) El Departamento Administrativo. B) El area de apoyo de Laboratorios y Talleres. C) El departamento de tecnologias de la informacion."
+    },
+    {
+      "tag": "ARTICULO_46",
+      "patterns": [
+        "¿Que funciones tiene el area de apoyo segun el ARTICULO 46?",
+        "Explique el papel del area de apoyo segun el ARTICULO 46."
+      ],
+      "response": "El area de apoyo es una entidad de la Facultad, responsable ante la Secretaria General de la planeacion, programacion, administracion y supervision de las actividades de docencia, asesoria, investigacion y extension universitaria, que se desarrollan en los laboratorios y talleres que la integran."
+    },
+    {
+      "tag": "ARTICULO_47",
+      "patterns": [
+        "¿Cuales son los requisitos del jefe del area de apoyo segun el ARTICULO 47?",
+        "Explique las funciones y atribuciones del jefe del area de apoyo segun el ARTICULO 47."
+      ],
+      "response": "El Area de apoyo estara a cargo de un jefe del area de apoyo que tendra los siguientes requisitos: I) Tener titulo de licenciatura reconocido por la Secretaria de Educacion Publica. II) Experiencia minima de labores docentes de cinco anos en la Facultad. III) Experiencia profesional minima de cinco anos. IV) Experiencia minima de tres anos en actividades academico-administrativas y manejo de personal. V) No desempenar ningun puesto politico durante el tiempo que dure en sus funciones, no ser empleado ni funcionario publico ni tener cargo de representacion sindical. VI) Desempenar su cargo con responsabilidad y dedicacion, por lo que debera dedicar un minimo de 20 horas/semana, y sus labores docentes no podran exceder de 20 horas/semana."
+    },
+    {
+      "tag": "ARTICULO_48",
+      "patterns": [
+        "¿Cuales son las funciones y atribuciones del area de apoyo segun el ARTICULO 48?",
+        "Explique las responsabilidades del area de apoyo de acuerdo con el ARTICULO 48."
+      ],
+      "response": "Area de Apoyo - Funciones y Atribuciones: I) Planear y programar las actividades docentes en coordinacion con los departamentos academicos y coordinadores de licenciaturas. II) Supervisar las asesorias para modelos y prototipos de talleres. III) Coordinar con areas de investigacion el uso de laboratorios. IV) Planear y programar el uso de laboratorios para trabajos especiales. V) Coordinar con la Secretaria Academica planes de actividades de extension. VI) Organizar espacios para actividades del area de apoyo. VII) Elaborar el presupuesto anual del area de apoyo y laboratorios. VIII) Coordinar con la administracion mantenimiento periodico. IX) Establecer sistema de insumos y control de almacen. X) Implementar sistema de supervision de personal. XI) Autorizar requisiciones de insumos y equipo. XII) Conceder realizacion de trabajos especiales. XIII) Gestionar implementacion de espacios y recursos. XIV) Proponer promocion, remocion o cambio de personal. XV) Reportar al personal por incumplimiento ante la Direccion."
+    },
+    {
+      "tag": "ARTICULO_49",
+      "patterns": [
+        "¿Cuales son los requisitos para la Secretaria Academica segun el ARTICULO 49?",
+        "Explique los requisitos de la Secretaria Academica de acuerdo con el ARTICULO 49."
+      ],
+      "response": "Requisitos para Secretaria Academica - I) Ser preferentemente mexicano. II) Tener titulo de licenciatura y ejercicio profesional de cinco anos en la Facultad. III) Experiencia docente minima de cinco anos en la Facultad. IV) No desempenar cargo politico ni ser empleado publico. V) No tener puesto de representacion sindical. VI) Haberse distinguido en la profesion y gozar de estimacion general. VII) Desempenar el cargo con responsabilidad y dedicacion plena, con labores docentes no superiores a 10 hrs. semana."
+    },
+    {
+      "tag": "ARTICULO_50",
+      "patterns": [
+        "Explique las funciones y atribuciones de la Secretaria Academica segun el ARTICULO 50.",
+        "¿Cuales son las responsabilidades de la Secretaria Academica segun el ARTICULO 50?"
+      ],
+      "response": "Funciones y atribuciones de la Secretaria Academica - I) Implementar el Plan de Desarrollo Academico. II) Elaborar programas semestrales. III) Organizar actividades academicas. IV) Evaluar planes de estudio. V) Fungir como Secretario Tecnico en la Comision Academica. VI) Coordinar academias y reuniones de trabajo. VII) Revisar y aprobar sistemas de ensenanza y evaluacion. VIII) Revisar programas de trabajo de profesores investigadores. IX) Establecer sistemas de registro. X) Participar en la recepcion de solicitudes de licencias y permisos. XI) Opinar sobre asuntos de su competencia. XII) Coordinar el desarrollo de actividades academicas. XIII) Hacer cumplir la normativa universitaria. XIV) Sugerir personal para cargos academicos. XV) Asistir a eventos academicos en representacion del Director."
+    },
+    {
+      "tag": "ARTICULO_51",
+      "patterns": [
+        "Explique las funciones y atribuciones de la Secretaria de Servicios Escolares segun el ARTICULO 51.",
+        "¿Cuales son las responsabilidades de la Secretaria de Servicios Escolares segun el ARTICULO 51?"
+      ],
+      "response": "La Secretaria de Servicios Escolares es responsable de la planeacion educativa, control academico, avance escolar, expedicion de documentos, Programas de Tutoria y Orientacion Educativa, y supervision de actividades del departamento de Servicio Social y Practicas Profesionales."
+    },
+    {
+      "tag": "ARTICULO_52",
+      "patterns": [
+        "Explique las funciones y atribuciones de la Secretaria de Servicios Escolares segun el ARTICULO 52.",
+        "¿Cuales son las responsabilidades especificas de la Secretaria de Servicios Escolares segun el ARTICULO 52?"
+      ],
+      "response": "La Secretaria de Servicios Escolares supervisa inscripciones, tramites administrativos, informa sobre condicion academica, mantiene registros academicos, gestiona revalidaciones, organiza trabajo del equipo secretarial, comunica a profesores sobre fechas y horarios, elabora estadisticas, disena sistemas de registro, asesora en orientacion vocacional, y supervisa procedimientos para el Servicio Social y Practicas Profesionales."
+    },
+    {
+      "tag": "ARTICULO_53",
+      "patterns": [
+        "Hable sobre los componentes y requisitos de la Secretaria Escolar segun el ARTICULO 53.",
+        "¿Cuales son los departamentos y requisitos de la Secretaria Escolar segun el ARTICULO 53?"
+      ],
+      "response": "Los componentes de la Secretaria Escolar incluyen el Departamento Escolar, Departamento de Servicio Social, Departamento de Practicas Profesionales, Departamento de la Formacion Integral del Estudiante, Departamento de Accion Tutorial y Departamento de Psicologia y Orientacion Educativa. Los requisitos para los responsables de estos departamentos incluyen preferentemente ser mexicano, tener titulo de licenciatura, experiencia minima de tres anos en funciones administrativo-academicas, gozar de estimacion como persona honorable y desempenar el cargo con responsabilidad y dedicacion plena."
+    },
+    {
+      "tag": "ARTICULO_54",
+      "patterns": [
+        "Hable sobre la Secretaria de Vinculacion, Extension y Planeacion segun el ARTICULO 54.",
+        "Expliqueme los requisitos para la Secretaria de Vinculacion, Extension y Planeacion segun el ARTICULO 54."
+      ],
+      "response": "La Secretaria de Vinculacion, Extension y Planeacion es responsable de la extension, vinculacion con diversos sectores, planeacion y difusion cultural. Los requisitos para ocupar este cargo incluyen ser preferentemente mexicano, tener titulo de licenciatura, antiguedad docente minima de tres anos en la Facultad, experiencia profesional minima de tres anos, habilidades en manejo de informacion y sistemas, conocimientos de computacion, gozar de estimacion como persona honorable y desempenar el cargo con responsabilidad y dedicacion plena, limitando las labores docentes a 10 hrs. semana."
+    },
+    {
+      "tag": "ARTICULO_55",
+      "patterns": [
+        "Hableme sobre las funciones y atribuciones segun el ARTICULO 55.",
+        "Expliqueme lo relacionado con la elaboracion de programas de vinculacion y extension segun el ARTICULO 55."
+      ],
+      "response": " La Secretaria de Vinculacion, Extension y Planeacion tiene diversas funciones, como elaborar programas y actividades de vinculacion y extension, estadisticas del Servicio Social y Practicas Profesionales, programas de Educacion Continua y Movilidad Academica, proponer areas para Practicas Profesionales, gestionar registro y control del Servicio Social, coordinar archivos de expedientes, emitir documentos de Servicio Social, desarrollar vinculacion a traves de proyectos, asistir a eventos y resolver problemas de prestadores, proponer convenios, disenar estrategias de difusion, establecer contactos con instituciones y elaborar la planeacion de actividades de la Facultad, entre otras."
+    },
+    {
+      "tag": "ARTICULO_56",
+      "patterns": [
+        "Hableme sobre el apoyo que tiene la Secretaria de Extension, Vinculacion y Planeacion segun el ARTICULO 56.",
+        "Expliqueme como se brinda apoyo a la Secretaria de Extension, Vinculacion y Planeacion segun el ARTICULO 56."
+      ],
+      "response": " Para cumplir con sus funciones, la Secretaria de Extension, Vinculacion y Planeacion recibira apoyo de las personas encargadas del Departamento de Servicio Social y de los programas de las areas correspondientes."
+    },
+    {
+      "tag": "ARTICULO_57",
+      "patterns": [
+        "Expliqueme quien desempenara las funciones de Planeacion de la Facultad del Habitat segun el ARTICULO 57.",
+        "Hableme sobre las funciones de Planeacion en la Facultad del Habitat segun el ARTICULO 57."
+      ],
+      "response": "El Secretario de Vinculacion, Extension y Planeacion sera responsable de desempenar las funciones de Planeacion en la Facultad del Habitat."
+    },
+    {
+      "tag": "ARTICULO_58",
+      "patterns": [
+        "Hableme sobre la Administracion de la Facultad del Habitat segun el ARTICULO 58.",
+        "Expliqueme las funciones de la Administracion de la Facultad del Habitat segun el ARTICULO 58."
+      ],
+      "response": "La Administracion es el organo de apoyo administrativo de la Facultad del Habitat, encargado de obtener y optimizar los recursos, ejercer los presupuestos, custodiar activos fijos y controlar el personal administrativo, tecnico y de intendencia."
+    },
+    {
+      "tag": "ARTICULO_59",
+      "patterns": [
+        "Cuenteme sobre el Administrador de la Facultad del Habitat segun el ARTICULO 59.",
+        "Digame cuales son los requisitos del Administrador segun el ARTICULO 59.",
+        "Expliqueme las funciones y atribuciones del Administrador segun el ARTICULO 59."
+      ],
+      "response": "La Administracion estara a cargo de un Administrador con requisitos que incluyen ser preferentemente mexicano, tener titulo de licenciatura, ser profesor universitario con antiguedad minima de 5 anos, entre otros. Sus funciones incluyen la obtencion y optimizacion de recursos, ejercicio de presupuestos y custodia de activos fijos."
+    },
+    {
+      "tag": "ARTICULO_60",
+      "patterns": [
+        "Hableme sobre las funciones y atribuciones de la Administracion de la Facultad del Habitat segun el ARTICULO 60.",
+        "Expliqueme las responsabilidades de la Administracion de la Facultad del Habitat segun el ARTICULO 60."
+      ],
+      "response": "La Administracion tiene funciones como la organizacion, direccion y control de servicios, tramitacion de requisiciones, control de fondos, supervision de mantenimiento, entre otras. Debe desempenar su cargo con responsabilidad y dedicacion, con una carga minima de 30 horas/semana, y sus labores docentes no podran exceder de 10 horas/semana."
+    },
+    {
+      "tag": "ARTICULO_61",
+      "patterns": [
+        "Hableme sobre la estructura de la Administracion segun el ARTICULO 61.",
+        "Expliqueme como esta organizada la Administracion de la Facultad del Habitat segun el ARTICULO 61."
+      ],
+      "response": "Para cumplir sus funciones, la Administracion cuenta con el Departamento de Recursos Humanos, el Departamento de Recursos Financieros y el Departamento de Recursos Materiales."
+    },
+    {
+      "tag": "ARTICULO_62",
+      "patterns": [
+        "Hableme sobre las licenciaturas que ofrece la Facultad del Habitat segun el ARTICULO 62.",
+        "Expliqueme los requisitos y funciones de los coordinadores de las licenciaturas segun el ARTICULO 62."
+      ],
+      "response": "Las licenciaturas de la Facultad estan disenadas para aplicar conocimientos en la materializacion del medio habitable. Cada licenciatura tiene un coordinador con requisitos como tener titulo de licenciatura, experiencia docente y profesional, preferentemente haber sido jefe de taller de sintesis, entre otros. El coordinador debe desempenar su cargo con responsabilidad y dedicacion."
+    },
+    {
+      "tag": "ARTICULO_63",
+      "patterns": [
+        "Hableme sobre las funciones y atribuciones de los coordinadores de las licenciaturas segun el ARTICULO 63.",
+        "Expliqueme que debe hacer el coordinador de una licenciatura segun el ARTICULO 63."
+      ],
+      "response": "El coordinador de una licenciatura tiene diversas funciones, como revisar procedimientos de operacion y actualizar contenidos del plan de estudios, establecer nexos con areas de investigacion, formular el plan de desarrollo de la carrera, definir la mecanica operativa del proceso ensenanza-aprendizaje, proponer adecuaciones al reglamento interno, programar y organizar actividades curriculares, representar a la licenciatura en eventos, promover actividades extracurriculares, establecer estrategias para vinculacion con la comunidad, entre otras."
+    },
+    {
+      "tag": "ARTICULO_64",
+      "patterns": [
+        "Hableme sobre el ARTICULO 64.",
+        "Cuenteme acerca de los talleres de sintesis segun el ARTICULO 64.",
+        "¿Que establece el ARTICULO 64 sobre los talleres de sintesis?"
+      ],
+      "response": "El ARTICULO 64 establece que los talleres de sintesis son la estructura operativa de las licenciaturas. Tienen como finalidad proporcionar al alumno el medio para desarrollar sus habilidades de diseno, sintetizando los conocimientos impartidos por las areas de investigacion a traves del cumplimiento de objetivos especificos dentro del ejercicio de su profesion."
+    },
+    {
+      "tag": "ARTICULO_65",
+      "patterns": [
+        "Digame cuales son los requisitos y funciones de los maestros de los talleres de sintesis segun el ARTICULO 65.",
+        "Expliqueme que se requiere para ser maestro en los talleres de sintesis y cuales son sus funciones segun el ARTICULO 65."
+      ],
+      "response": " Para ser maestro en los talleres de sintesis se requiere tener titulo de licenciatura reconocido por la Secretaria de Educacion Publica, un minimo de 3 anos de experiencia docente en los talleres, cinco anos de experiencia profesional, distincion en el ejercicio de la profesion, estimacion general como persona honorable y desempenar labores inherentes al cargo por un minimo de 3 horas/semana. Las funciones incluyen coordinar las acciones del taller, promover actividades de superacion academica y cultural, programar actividades del taller, definir temas y objetivos, participar en evaluaciones colegiadas, convocar y presidir reuniones de maestros, colaborar en la revision del Plan de Estudios, vigilar el cumplimiento de programas de estudios y reglamentos, y colaborar en el proceso de inscripciones."
+    },
+    {
+      "tag": "ARTICULO_66",
+      "patterns": [
+        "Cuenteme sobre los Departamentos de Investigacion Academica.",
+        "¿Que menciona el ARTICULO 66 acerca de los Departamentos de Investigacion Academica?",
+        "Hableme de la unidad academica en relacion con la investigacion segun el ARTICULO 66."
+      ],
+      "response": "Los Departamentos de Investigacion Academica son unidades de orden academico que aglutinan comunidades de profesores e investigadores. Estas comunidades son relativamente homogeneas y realizan labores de docencia, investigacion y extension o vinculacion en campos especializados del conocimiento, segun lo establecido en el ARTICULO 66."
+    },
+    {
+      "tag": "ARTICULO_67",
+      "patterns": [
+        "Expliqueme acerca de los campos del conocimiento y saberes segun el ARTICULO 67.",
+        "Hableme sobre los departamentos mencionados en el ARTICULO 67.",
+        "¿Cuales son los campos del conocimiento y saberes segun el ARTICULO 67?"
+      ],
+      "response": "Los campos del conocimiento y saberes se dividen en tres departamentos: \nI. Departamento de Estudios del Hombre y de la Sociedad.\nII. Departamento de Estudios del Arte y Del Diseno.\nIII. Departamento de Estudios de la Tecnica y la Tecnologia."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "intents": [
+    {
+      "tag": "Definicion_Objetivos",
+      "patterns": [
+        "Como se define la Facultad de Ciencias segun el Articulo 1?",
+        "Cual es el objetivo principal de la Facultad de Ciencias segun el Articulo 2?",
+        "Cual es el proposito del presente Reglamento segun el Articulo 3?",
+        "Quienes estan obligados a seguir las normativas establecidas en este Reglamento?"
+      ],
+      "response": "La Facultad de Ciencias es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ciencia basica y ciencia aplicada, dependiente de la Universidad. El objetivo de la Facultad es la formacion de profesionales de la ciencia del mas alto nivel, para contribuir al desarrollo de la sociedad. El presente Reglamento, en apego a la normativa institucional, tiene por objeto establecer las particularidades de apoyo al buen gobierno y funcionamiento de la Facultad. Asimismo, la normativa contenida en el presente documento es de aplicacion obligatoria para los integrantes de la Facultad que la conformen como: alumnos, personal academico y personal administrativo."
+    },
+    {
+      "tag": "Definicion_Organizacion",
+      "patterns": [
+        "Como se rige la Facultad segun el Articulo 4?",
+        "Cuales son los elementos de la estructura organizacional de la Facultad segun el Articulo 5?",
+        "Que entidades forman parte de la estructura organizacional de la Facultad segun el Articulo 5?",
+        "Que areas academicas define la Facultad segun el Articulo 6?",
+        "Cual es el fundamento normativo de la Facultad segun el Articulo 4?"
+      ],
+      "response": "La Facultad se rige por el Estatuto Organico, los acuerdos del H. Consejo Directivo Universitario y demas normativa universitaria, asi como por el presente Reglamento. La estructura organizacional de la Facultad incluye la Direccion, la Secretaria General, la Secretaria Academica, la Secretaria de Investigacion y Posgrado, la Secretaria Escolar, la Administracion, el H. Consejo Tecnico Consultivo, el Consejo de Posgrado, las Coordinaciones de Carrera, las Comisiones Curriculares, los Responsables de laboratorio, el Area de Vinculacion y Difusion, el Area de Recursos TIC’s, el Area de Tutorias, el Area de Asesoria Academica, y el Area de Computo Escolar, asi como las Coordinaciones Academicas de Posgrado y sus Comites Academicos. La Facultad no define areas academicas que engloben a los programas educativos a nivel licenciatura y posgrado."
+    },
+    {
+      "tag": "Definicion_SecretariaGeneral",
+      "patterns": [
+        "Cuales son las funciones del secretario general?",
+        "Que responsabilidades tiene el secretario general?",
+        "Cuales son los requisitos para ser secretario general?",
+        "Como se elige al secretario general?",
+        "Cual es la relacion entre el secretario general y el director de la Facultad?"
+      ],
+      "response": "El secretario general coadyuva al director en funciones academico-administrativas. Sus responsabilidades incluyen apoyar en la planificacion y control de actividades, encargarse del despacho en ausencia del director, dar fe de elecciones, coordinar la interaccion con dependencias universitarias, supervisar actividades de las secretarias, participar en la Comision de Admision, certificar documentos, organizar archivos, coordinar procesos de titulacion, mantener programas educativos acreditados, y coordinar procesos internos y actividades de vinculacion y difusion."
+    },
+    {
+      "tag": "SecretarioEscolar_Mision",
+      "patterns": [
+        "Cual es la mision del Secretario Escolar en la Facultad?",
+        "Cuales son las responsabilidades clave del Secretario Escolar segun la normativa universitaria?",
+        "Como se define el papel del Secretario Escolar en la planificacion academica y administrativa?",
+        "Cuales son los requisitos para ser nombrado Secretario Escolar?",
+        "En que areas especificas el Secretario Escolar colabora con otros funcionarios academicos?"
+      ],
+      "response": "La mision del Secretario Escolar en la Facultad es planear, organizar y dirigir las actividades relacionadas con el balance academico de los alumnos, controlar la documentacion, incluyendo kardex y expediente, y su nombramiento o remocion depende directamente del rector a propuesta del director. Las responsabilidades clave incluyen auxiliar al director en asuntos escolares, coordinar con otros funcionarios academicos, elaborar la agenda academico-administrativa, supervisar examenes de admision, gestionar calificaciones, mantener el control administrativo del kardex y expediente de los alumnos, organizar procesos academicos y contribuir a la acreditacion de programas educativos, entre otras responsabilidades establecidas por la normativa universitaria y el director."
+    },
+    {
+      "tag": "Definicion_Administracion",
+      "patterns": [
+        "Cuales son las responsabilidades del administrador de la Facultad, segun el Reglamento?",
+        "Que requisitos debe cumplir una persona para ser administrador de la Facultad?",
+        "Como se lleva a cabo el nombramiento y remocion del administrador de la Facultad?",
+        "Cuales son las funciones inherentes al cargo del administrador, segun el Reglamento?",
+        "Como se gestiona la adquisicion de bienes muebles, materiales y equipos necesarios para el trabajo de la Facultad?"
+      ],
+      "response": "El administrador de la Facultad tiene la responsabilidad de presupuestar, controlar y coordinar los recursos financieros, materiales y el personal administrativo, siguiendo las directrices de la direccion. Para ser administrador, se deben cumplir requisitos como tener titulo de licenciado en administracion o carrera afi, contar con al menos 3 anos de experiencia en administracion, gozar de reconocida honorabilidad, tener experiencia en manejo de personal y poseer capacidad de gestion administrativa. El nombramiento y remocion del administrador son decisiones del rector a propuesta del director, y el administrador depende directamente del director. Sus funciones incluyen auxiliar al director, colaborar en la planeacion y programacion del presupuesto anual, hacer seguimiento al ejercicio del presupuesto, generar apertura programatica de eventos extraordinarios, entre otras. La gestion de la adquisicion de bienes y materiales se realiza bajo la supervision del administrador."
+    },
+    {
+      "tag": "Plan_de_Estudios",
+      "patterns": [
+        "Que es el plan de estudios segun el Articulo 157?",
+        "Cual es la unidad basica de un plan de estudios, segun el Articulo 158?",
+        "Cuales son las categorias de asignaturas segun su naturaleza, segun el Articulo 161?",
+        "Como puede estar constituida una asignatura, segun el Articulo 162?",
+        "Como se especifican las asignaturas comunes en los planes de estudio, segun el Articulo 167?",
+        "Quien tiene la autoridad para revisar y actualizar el plan de estudios, segun el Articulo 169?",
+        "Que sucede si un alumno no aprueba una asignatura optativa, segun el Articulo 170?"
+      ],
+      "response": "El plan de estudios es un modelo sistematico que determina el contenido de un programa educativo. La asignatura es la unidad basica y puede ser de Prerrequisito, Obligatoria u Optativa. Puede estar constituida por Clase teorica, Laboratorio o Taller. El plan de estudios se actualiza por la comision curricular con aprobacion de los consejos correspondientes. Una asignatura optativa no aprobada no se convierte en obligatoria y puede ser sustituida por otra."
+    },
+    {
+      "tag": "Examenes",
+      "patterns": [
+        "Cual es el objetivo de los examenes, segun el Articulo 180?",
+        "Cuantas veces puede inscribirse un alumno en una asignatura, segun el Articulo 183?",
+        "Cuales son los tipos de examenes que pueden aprobar un curso, segun el Articulo 184?",
+        "Cual es el limite de examenes de regularizacion para un alumno, segun el Articulo 185 fraccion I?",
+        "Cuales son las formas para presentar el examen de regularizacion, segun el Articulo 186?",
+        "Que sucede si hay controversia con las calificaciones de los examenes, segun el Articulo 187?",
+        "Cuando y como se presenta el examen por derecho de pasantia, segun el Articulo 189?"
+      ],
+      "response": "Los examenes son medios para la acreditacion del aprendizaje. Un alumno puede inscribir una asignatura hasta dos veces. Los examenes incluyen final ordinario, final extraordinario y examen a titulo de suficiencia. Hay limites para el numero de examenes de regularizacion. Se pueden presentar en el periodo designado o cumpliendo nuevamente con los requisitos academicos durante un semestre. En caso de inconformidad, se puede seguir un proceso establecido. El examen por derecho de pasantia se presenta para aprobar materias adicionadas al plan de estudios."
+    },
+    {
+      "tag": "Alumnos",
+      "patterns": [
+        "Cuales son los derechos y obligaciones de un alumno de la Facultad?",
+        "Que actividades academicas debe atender un alumno durante el semestre?",
+        "Como se define a un alumno regular?",
+        "Cuales son los tipos de bajas que contempla el reglamento para los alumnos?",
+        "En que consiste la baja del programa educativo?",
+        "Como se solicita la baja voluntaria en modalidad temporal y cuales son las condiciones?",
+        "Cuales son los requisitos para el reingreso despues de una baja temporal o por abandono?",
+        "Cuales son las causas de baja reglamentaria segun el reglamento?",
+        "Cuando se produce la baja de materias?",
+        "Cuales son los estimulos academicos que se ofrecen a los mejores alumnos?",
+        "Cual es la responsabilidad del alumno respecto al uso de instalaciones y recursos de la Facultad?"
+      ],
+      "response": "El alumno de la Facultad tiene derechos y obligaciones establecidos por la normativa universitaria. Debe atender actividades academicas, cumplir con asistencia minima, y sujetarse al Plan de Estudios. Se define como alumno regular a quien ha aprobado todos los cursos inscritos. El reglamento contempla tipos de bajas, como la voluntaria, por abandono, y reglamentaria. La baja del programa educativo se produce al dejar de asistir a la licenciatura. La baja voluntaria temporal permite el reingreso sujeto a condiciones. El reingreso despues de baja temporal o abandono tiene requisitos especificos. Las causas de baja reglamentaria incluyen no acreditar asignaturas y superar limites de cursos reprobados. La baja de materias ocurre al decidir no cursar algunas inscritas. Se ofrecen estimulos academicos a los mejores alumnos, y estos son responsables del buen uso de recursos."
+    },
+    {
+      "tag": "Educacion_en_la_Facultad_de_Ingenieria",
+      "patterns": [
+        "Cual es el nombre oficial de la entidad academica?",
+        "Como se denomina la Facultad segun este reglamento?",
+        "Cual es el proposito de la Facultad segun el Articulo 2?",
+        "Cual es el enfoque de la Facultad segun el Articulo 3?",
+        "Cual es el objetivo de la Facultad en cuanto a la formacion de profesionales?"
+      ],
+      "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi. En este reglamento, la entidad academica se denomina 'la Facultad'. La Facultad es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ingenieria. La mision de la Facultad es la formacion integral de profesionales de la ingenieria con responsabilidad social, etica y vision global. La Facultad busca generar, aplicar y difundir conocimiento y desarrollo tecnologico de vanguardia."
+    },
+    {
+    "tag": "Derechos y Obligaciones de los Alumnos",
+    "patterns": [
+      "¿Como se atenderan los derechos y obligaciones de los alumnos segun el Articulo 227?",
+      "¿Cuales son las normativas que rigen los derechos y obligaciones de los alumnos?",
+      "¿Que establece el Estatuto Organico y el presente reglamento sobre los derechos y obligaciones de los alumnos?"
+    ],
+    "response": "Los derechos y obligaciones de los alumnos se atenderan de acuerdo con el Estatuto Organico, el presente reglamento y demas normativa universitaria aplicable, segun lo establecido en el Articulo 227."
+    },
+    {
+      "tag": "Mencion Honorifica",
+      "patterns": [
+        "¿Cuales son los requisitos para obtener la Mencion Honorifica segun el Articulo 232?",
+        "¿Como determina el grupo de sinodales el otorgamiento de la distincion?",
+        "¿Que condiciones deben cumplirse para obtener la Mencion Honorifica en la Facultad de Ingenieria?"
+      ],
+      "response": "Los requisitos para obtener la Mencion Honorifica, segun el Articulo 232, incluyen un promedio minimo de 8.5 a 9, acreditacion de todas las materias en examen ordinario, al menos el 90% de estudios cursados en la entidad academica, excelente desempeño en el proceso de titulacion, y no haber sido objeto de sancion disciplinaria dentro de la institucion. El grupo de sinodales determinara el otorgamiento de la distincion mediante una rubrica entregada en la secretaria general al concluir el examen profesional, segun el Articulo 233."
+    }
+  ]
+}

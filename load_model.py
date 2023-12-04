@@ -1,4 +1,5 @@
 import json
+import sys
 import pickle
 import numpy as np
 import nltk
@@ -8,11 +9,20 @@ from nltk.stem import WordNetLemmatizer
 
 lemmatizer = WordNetLemmatizer()
 
+def get_folder_value():
+  with open('chat_model/folder_value.txt', 'r') as file:
+    return file.read().strip()
+
+folder = get_folder_value()
+
+
+
+print(f"El valor para la carpeta del modelo es: {folder}")
 # loading the files we made previously
-intents = json.loads(open("chat_model/Ingenieria/RI.json", 'r', encoding='utf-8').read())
-words = pickle.load(open('chat_model/Ingenieria/words.pkl', 'rb'))
-classes = pickle.load(open('chat_model/Ingenieria/classes.pkl', 'rb'))
-model = load_model('chat_model/Ingenieria/chatbotmodel.h5')
+intents = json.loads(open(f"chat_model/{folder}/Reglamento.json", 'r', encoding='utf-8').read())
+words = pickle.load(open(f'chat_model/{folder}/words.pkl', 'rb'))
+classes = pickle.load(open(f'chat_model/{folder}/classes.pkl', 'rb'))
+model = load_model(f'chat_model/{folder}/chatbotmodel.h5')
 
 def clean_up_sentences(sentence):
     sentence_words = nltk.word_tokenize(sentence)

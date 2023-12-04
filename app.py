@@ -12,6 +12,11 @@ def index():
 @app.route('/chat_response', methods=['POST'])
 def mi_endpoint():
     message = request.form.get('user_message')
+    folder = request.form.get('folder_location')
+
+    with open('chat_model/folder_value.txt', 'w') as file:
+        file.write(folder)
+
     subprocess.run(["python", "load_model.py"])
     data = get_message(message)
     return data
