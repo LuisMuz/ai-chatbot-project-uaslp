@@ -1,0 +1,261 @@
+{
+  "intents": [
+    {
+      "tag": "Definicion_Mision",
+      "patterns": [
+        "Cual es el nombre oficial de la entidad academica?",
+        "Como se denomina la Facultad en este reglamento?",
+        "Cual es el proposito de la Facultad segun el Articulo 2?",
+        "Cual es el enfoque de la Facultad segun el Articulo 3?",
+        "Cual es el objetivo de la Facultad en cuanto a la formacion de profesionales?"
+      ],
+      "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi. En este reglamento, la entidad academica se denomina 'la Facultad'. La Facultad es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ingenieria. La mision de la Facultad es la formacion integral de profesionales de la ingenieria con responsabilidad social, etica y vision global. La Facultad busca generar, aplicar y difundir conocimiento y desarrollo tecnologico de vanguardia."
+    },
+    {
+      "tag": "Oferta_Educativa",
+      "patterns": [
+        "Que areas academicas ofrece la Facultad segun el Articulo 6?",
+        "Cuales son los programas educativos de licenciatura que ofrece la Facultad?",
+        "En cuantas Areas Academicas se divide la Facultad?",
+        "Dime las disciplinas que abarcan los programas educativos de licenciatura segun el Articulo 6.",
+        "Cual es el objetivo de la Facultad en cuanto a la oferta educativa?"
+      ],
+      "response": "La Facultad ofrece programas educativos de licenciatura a traves de las Areas Academicas Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales. Los programas educativos de licenciatura que ofrece la Facultad se encuentran en las Areas Academicas mencionadas en el Articulo 6. La Facultad se divide en seis Areas Academicas segun el Articulo 6. Los programas educativos de licenciatura abarcan disciplinas en Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales. El objetivo de la Facultad es ofrecer programas educativos de licenciatura en diversas disciplinas de ingenieria."
+    },
+    {
+      "tag": "Consejo_Tecnico_Consultivo",
+      "patterns": [
+        "Como se eligen los consejeros maestros segun el Articulo 17?",
+        "Cada cuanto tiempo se eligen los consejeros alumnos segun el Articulo 17?",
+        "Quien emite las convocatorias para la eleccion de consejeros?",
+        "Cuales son los requisitos para ser consejero ante el H. Consejo Tecnico Consultivo segun el Articulo 18?",
+        "Que sucede en caso de empate en las sesiones del H. Consejo Tecnico Consultivo segun el Articulo 20?"
+      ],
+      "response": "Los consejeros maestros ante el H. Consejo Tecnico Consultivo son electos cada cuatro anos y los consejeros alumnos cada dos anos, durante el mes de marzo en los anos de terminacion par que correspondan. Los consejeros alumnos son elegidos cada dos anos, segun el Articulo 17. El Director emite las convocatorias para la eleccion de consejeros, de acuerdo a lo establecido en el Estatuto Organico. Para ser consejero ante el H. Consejo Tecnico Consultivo, el maestro o alumno aspirante debe cumplir con los requisitos establecidos en los articulos 19 y 20 del Estatuto Organico, y acreditar su representatividad mediante el acta que comprueba su eleccion. En las sesiones del H. Consejo Tecnico Consultivo, los consejeros maestros y alumnos tienen voz y voto. El Director tiene voto de calidad, que ejerce en caso de empate."
+    },
+    {
+      "tag": "Secretario_General",
+      "patterns": [
+        "Cual es el papel del Secretario General segun el Articulo 34?",
+        "Quien nombra o remueve al Secretario General?",
+        "Cuales son los requisitos para ser Secretario General segun el Articulo 35?",
+        "En que areas se encarga de la organizacion y gestion interna de la Facultad el Secretario General?",
+        "Cual es la relacion de dependencia del Secretario General?"
+      ],
+      "response": "El Secretario General es el encargado de la organizacion y gestion interna de la Facultad, y es nombrado o removido por el Rector a propuesta del Director, de quien depende. El Rector nombra o remueve al Secretario General. Los requisitos para ser Secretario General incluyen tener titulo de licenciatura afín a los programas que se imparten en la Facultad, ser una persona de honorabilidad reconocida y distinguirse por su competencia. El Secretario General se encarga de la organizacion y gestion interna de la Facultad en areas como personal, servicios, archivo, estadistica, y relaciones exteriores. El Secretario General tiene una relacion de dependencia con el Director de la Facultad."
+    },
+    {
+      "tag": "Servicios_Educativos",
+      "patterns": [
+        "Cuales son los servicios educativos que ofrece la Facult the Ingenieria?",
+        "Como se integra la matricula de la saldo nacional",
+        "Cuales son los servicios a los que se refiere el servicio de Accion Social?",
+        "Como se integra la matricula de la Facultad?"
+      ],
+      "response": "La Facultad de Ingenieria ofrece servicios educativos a traves de programas de licenciatura y posgrado, cursos de actualizacion y extension, educacion continua, y servicios de investigacion y asesoria. La matricula de la Facultad se integra con estudiantes de nuevo ingreso, regulares, irregulares, especiales, y de intercambio nacional o extranjero. Los servicios a los que se refiere el servicio de Accion Social incluyen actividades y proyectos que vinculan a la Facultad con la sociedad, fomentando la participacion de estudiantes y profesores en proyectos de beneficio social. La matricula de la Facultad se integra con estudiantes de nuevo ingreso, regulares, irregulares, especiales, y de intercambio nacional o extranjero."
+    },
+    {
+        "tag": "Responsabilidades_Secretario_Academico",
+        "patterns": [
+            "Cuales son las responsabilidades del Secretario Academico segun el Articulo 39?",
+            "En que asuntos actua como auxiliar el Secretario Academico?",
+            "Que supervisa el Secretario Academico en el proceso de ingreso de alumnos por revalidacion de asignaturas?",
+            "Cual es la responsabilidad del Secretario Academico en el proceso de cambio de carrera?",
+            "Que coordinacion realiza el Secretario Academico con los Secretarios General y Escolar de la Facultad?"
+        ],
+        "response": "El Secretario Academico tiene responsabilidades como ser el auxiliar del Director de la Facultad en asuntos de Movilidad Academica, supervisar el proceso de ingreso de alumnos por revalidacion de asignaturas, supervisar el proceso de cambio de carrera, coordinar con los Secretarios General y Escolar el proceso de admision de aspirantes, coordinar actividades de difusion de la oferta educativa y cumplir con las demas responsabilidades que establece la normativa universitaria y el Director de la Facultad."
+    },
+    {
+        "tag": "Responsabilidades_Secretario_Escolar",
+        "patterns": [
+            "Cuales son las responsabilidades del Secretario Escolar segun el Articulo 42?",
+            "Como se coordina el Secretario Escolar con el Secretario General y el Secretario Academico?",
+            "Que actividades realiza el Secretario Escolar en relacion con los examenes y calificaciones?",
+            "Como mantiene actualizado el kardex el Secretario Escolar?",
+            "Quien nombra o remueve al Secretario Escolar segun la normativa?"
+        ],
+        "response": "El Secretario Escolar tiene responsabilidades como elaborar la agenda y calendario de actividades semestrales en coordinacion con el Secretario General y el Secretario Academico, planificar y organizar la aplicacion de examenes parciales y supervisar la entrega de calificaciones, coordinar con los Secretarios General y Academico el proceso de admision de aspirantes, mantener actualizado el kardex a traves del sistema de informacion, y cumplir con otras responsabilidades segun la normativa universitaria y el Director de la Facultad. El Secretario Escolar es nombrado o removido por el Rector a propuesta del Director."
+    },
+    {
+        "tag": "Coordinadores",
+        "patterns": [
+            "Que responsabilidad tiene el Coordinador de Carrera segun el Articulo 55?",
+            "Cual es la funcion del Coordinador General de Posgrados segun el Articulo 56?",
+            "Cual es la responsabilidad del Coordinador de Investigacion segun el Articulo 57?",
+            "Que funcion realiza el Coordinador Academico de Posgrado segun el Articulo 58?",
+            "Que requisitos se deben cumplir para ser coordinador segun el Articulo 59?"
+        ],
+        "response": "El Coordinador de Carrera es responsable de un programa educativo de licenciatura. El Coordinador General de Posgrados actua como auxiliar del Jefe de Area de Investigacion y Posgrado en la supervision de los programas de posgrado. El Coordinador de Investigacion es auxiliar del Jefe de Area de Investigacion y Posgrado en la supervision del desarrollo de las lineas de investigacion y del programa de trabajo colegiado de los cuerpos academicos. El Coordinador Academico de Posgrado es responsable de un programa educativo de posgrado. Para ser coordinador, se deben cumplir los mismos requisitos que para el Jefe de Area Academica correspondiente, a excepcion de la antiguedad minima, que debe ser de tres anos, salvo para los programas educativos de nueva creacion. La permanencia en el cargo de un Coordinador de Posgrado se rige por el articulo 16 del Reglamento General de Estudios de Posgrado."
+    },
+    {
+        "tag": "Definicion_Alumno",
+        "patterns": [
+            "Como se define 'alumno' segun el Articulo 127?",
+            "Que derechos y obligaciones adquiere una persona al ser considerada 'alumno'?",
+            "Cual es la responsabilidad del alumno en relacion con el uso de instalaciones y equipo?",
+            "Que se prohíbe expresamente en cuanto al uso de programas de computo segun el Articulo 129?",
+            "Como se espera que se comporte un alumno de la Facultad segun el Articulo 130?"
+        ],
+        "response": "Segun el Articulo 127, un alumno es la persona inscrita academica y administrativamente en un programa educativo de escolaridad formal que otorgue un grado academico en la Facultad. Adquiere derechos y prerrogativas, asi como la obligacion de sujetarse a las disposiciones legales, politicas y procedimientos establecidos en la normativa universitaria. Ademas, el alumno es responsable del buen uso de instalaciones, equipo, material de laboratorio y se prohíbe el uso de programas de computo sin licenciamiento."
+    },
+    {
+        "tag": "Derechos_Obligaciones_Alumno",
+        "patterns": [
+            "Cuales son los derechos del alumno segun el Articulo 131?",
+            "Cuales son las obligaciones del alumno segun el Articulo 132?",
+            "Que incluye el derecho a tener asignado un tutor academico?",
+            "Como se rige la permanencia en el cargo de un Coordinador de Posgrado segun el Articulo 60?",
+            "Que responsabilidades imputables a los alumnos se anaden a las establecidas en el Estatuto Organico segun el Articulo 133?"
+        ],
+        "response": "Los derechos del alumno segun el Articulo 131 incluyen recibir informacion completa y oportuna sobre sus derechos y obligaciones, un tratamiento respetuoso, asignacion de un tutor academico, conocer oportunamente los resultados de evaluaciones, ser atendido y obtener respuestas oportunas, y otros derechos establecidos en el Estatuto Organico. Las obligaciones del alumno segun el Articulo 132 incluyen cumplir y respetar las disposiciones universitarias, mantenerse informado sobre derechos y obligaciones, tratar respetuosamente a la comunidad universitaria, asistir con puntualidad a clases, someterse a evaluaciones, cumplir con normativas sobre consumo de alimentos y tabaco, representar dignamente a la Universidad, y otros deberes establecidos en la normativa."
+    },
+    {
+        "tag": "Causas_Responsabilidad_Alumno",
+        "patterns": [
+            "Cuales son las causas de responsabilidad imputable a los alumnos segun el Articulo 133?",
+            "Que se considera una oportunidad segun el Articulo 133?",
+            "Cuales son causas de baja definitiva del alumno segun el Articulo 138?",
+            "En que casos se concede inscripcion por 10 dias segun el Articulo 139?",
+            "Que requisitos deben cumplirse para adquirir por primera vez el caracter de alumno de licenciatura segun el Articulo 134?"
+        ],
+        "response": "Las causas de responsabilidad imputable a los alumnos segun el Articulo 133 incluyen prestar o recibir ayuda fraudulenta, uso no autorizado de servicios y materiales, sustraer equipo sin autorizacion, actos de violencia, promover actividades inmorales, entre otros. Una oportunidad se considera un curso o un examen de regularizacion. Causas de baja definitiva incluyen solicitudes expresas, no acreditar 45 creditos en el primer ciclo escolar, agotar oportunidades para aprobar, sobrepasar limites de reprobar y cursar tiempo excesivo sin concluir la carrera. Se concede inscripcion por 10 dias para regularizacion. Para adquirir el caracter de alumno de licenciatura, se deben cumplir requisitos como ser seleccionado por resultados en el examen de admision, entregar documentacion requerida, concluir inscripcion administrativa anual y academica semestral, y establecer un compromiso de buen comportamiento."
+    },
+    {
+        "tag": "Revalidacion_Convalidacion",
+        "patterns": [
+            "Cuales son los requisitos para la convalidacion de estudios segun el Articulo 135?",
+            "Cuales son los requisitos para la revalidacion de estudios segun el Articulo 136?",
+            "Como se conserva el caracter de alumno en la Facultad segun el Articulo 137?",
+            "Cuales son las causas de baja definitiva del alumno segun el Articulo 138?",
+            "Cuales son los requisitos para aspirar a estimulos academicos segun el Articulo 141?"
+        ],
+        "response": "Para la convalidacion de estudios, se deben cumplir requisitos como estar seleccionado por resultados en el examen de admision, tener un avance en la carrera de origen, contar con autorizacion de la Comision Institucional de Cambios de Carrera, entre otros. Los requisitos para la revalidacion de estudios son los establecidos en el Articulo 134. Para conservar el caracter de alumno se deben cumplir requisitos como efectuar semestralmente la Tutoria Academica y la Evaluacion Docente, no tener adeudos, concluir inscripcion administrativa y academica, y otros establecidos en el Estatuto Organico y normativa. Causas de baja definitiva incluyen solicitud expresa, no acreditar 45 creditos en primer ciclo escolar, agotar oportunidades para aprobar, sobrepasar limites de reprobar, cursar tiempo excesivo sin concluir carrera y otras. Para aspirar a estimulos academicos, el alumno puede inscribir mas de 50 creditos, obtener un lugar preferencial en el orden de inscripcion, ser candidato a becario, entre otros, segun lo establecido en el Articulo 141."
+    },
+    {
+        "tag": "Plan_Estudios",
+        "patterns": [
+            "Que es el plan de estudios segun el Articulo 148?",
+            "Quien establece las normas del plan de estudios segun el Articulo 148?",
+            "Hasta cuando debe cumplir un alumno con el plan de estudios?"
+        ],
+        "response": "El plan de estudios es el conjunto de asignaturas, normas y condiciones que el alumno de la Facultad debe cumplir durante su permanencia como estudiante y hasta adquirir la calidad de egresado. Las normas son establecidas desde diferentes ambitos: Universidad, Facultad y Area Academica."
+    },
+    {
+      "tag": "Asignatura_Materia",
+      "patterns": [
+        "¿Como se define 'asignatura' segun el Articulo 149?",
+        "¿Que se espera que el alumno adquiera al cursar una asignatura?",
+        "¿Que impide que un alumno se inscriba en una materia segun el Articulo 151?"
+      ],
+      "response": "La asignatura o materia es el conjunto de temas ordenados de manera sistemica que deben ser cubiertos en un curso de escolaridad formal para que el alumno adquiera conocimientos, habilidades, aptitudes y/o actitudes que coadyuven a alcanzar el perfil establecido del profesionista. El alumno no puede inscribirse en una materia si no ha aprobado la asignatura establecida como prerrequisito por incompatibilidad, seriacion u otras razones."
+    },
+    {
+      "tag": "Actividades_Asignatura",
+      "patterns": [
+        "¿Cuales son las actividades incluidas en una asignatura segun el Articulo 156?",
+        "¿En que consiste la actividad de 'Taller' segun el Articulo 156?",
+        "¿Que implica la 'Practica de campo' en una asignatura segun el Articulo 156?"
+      ],
+      "response": "Una asignatura puede incluir actividades como clase teorica, laboratorio, taller y practica de campo. La clase teorica se realiza para exponer, analizar y evaluar el contenido tematico. El laboratorio es una actividad en instalaciones especificas para demostrar o experimentar sobre los contenidos expuestos en la clase teorica. El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
+    },
+    {
+      "tag": "Carga_Academica",
+      "patterns": [
+        "¿Cual es el numero maximo de creditos que un alumno puede cursar por semestre segun el Articulo 160?",
+        "¿En que condiciones un alumno puede inscribir una materia adicional segun el Articulo 161?",
+        "¿Como cambia la posibilidad de inscribir creditos adicionales si el alumno aprueba la totalidad de asignaturas inscritas segun el Articulo 162?"
+      ],
+      "response": "El numero maximo de creditos que un alumno puede cursar por semestre, de manera ordinaria, es de 50 segun el Articulo 160. Si en el semestre anterior aprobo al menos 45 creditos con un promedio minimo de ocho, puede optar por inscribir una materia adicional, previa autorizacion del Tutor Academico, segun el Articulo 161. Si aprueba la totalidad de asignaturas inscritas, puede inscribir la misma cantidad de creditos independientemente del promedio obtenido (Articulo 162). Si aprueba todas las asignaturas con promedio de ocho o mayor, puede optar por inscribir una asignatura adicional hasta un maximo de 70 creditos (Articulo 163)."
+    },
+    {
+      "tag": "Examenes_Asignatura",
+      "patterns": [
+        "¿Que es el Examen de acreditacion segun el Articulo 181?",
+        "¿Cual es la duracion de los Examenes Parciales segun el Articulo 182?",
+        "¿Cuales son los tipos de examenes mediante los cuales el alumno puede aprobar una asignatura segun el Articulo 183?"
+      ],
+      "response": "El Examen de acreditacion es aquel que se realiza a solicitud del alumno cuando considera que, por experiencia laboral o estudios previos, ha logrado una formacion en ese campo y puede demostrar los conocimientos necesarios para acreditar una materia (Articulo 181). La duracion de los Examenes Parciales es de una hora, en el horario y aula asignados (Articulo 182). Los tipos de examenes para aprobar una asignatura son Ordinario, Extraordinario, a Titulo de Suficiencia y de Regularizacion (Articulo 183)."
+    },
+    {
+      "tag": "Perdida_Derecho_Examenes",
+      "patterns": [
+        "¿En que condiciones el alumno pierde el derecho a presentar cualquier tipo de examen segun el Articulo 184?",
+        "¿Como se considera el uso de inscripciones en el caso de no aprobar una asignatura en Examen Ordinario o Extraordinario?",
+        "¿Que se entiende por dos terceras partes de asistencia segun el Articulo 184?"
+      ],
+      "response": "El alumno pierde el derecho a presentar cualquier tipo de examen cuando no acredita dos terceras partes de la asistencia o no acredita el laboratorio de la asignatura en su caso, agotando una de las dos inscripciones que le permite el articulo 100 del Estatuto Organico (Articulo 184). En caso de no aprobar una asignatura en Examen Ordinario o Extraordinario, se considera que el alumno ha hecho uso de una de las dos inscripciones permitidas (Articulo 183)."
+    },
+    {
+      "tag": "Examenes_Suficiencia_Regularizacion",
+      "patterns": [
+        "¿Quien es el Sinodal Titular en los examenes a Titulo de Suficiencia y de Regularizacion segun el Articulo 187?",
+        "¿Como se elabora el examen cuando varios profesores imparten la misma asignatura?",
+        "¿Quien aplica los examenes a Titulo de Suficiencia y de Regularizacion segun el Articulo 188?"
+      ],
+      "response": "En los examenes a Titulo de Suficiencia y de Regularizacion, el profesor que impartio la asignatura es el Sinodal Titular y se encarga de elaborarlo y calificarlo. Cuando existen dos o mas profesores que imparten la misma asignatura, el examen se elabora de manera colegiada. Los examenes son aplicados por un Sinodal Secretario, designado por el Jefe del Area Academica correspondiente."
+    },
+    {
+      "tag": "Examen_Pasantia",
+      "patterns": [
+        "¿Que es el examen por derecho de pasantia segun el Articulo 192?",
+        "¿Donde se establecen las condiciones y requisitos para el examen por derecho de pasantia?",
+        "¿Cual es la finalidad del examen por derecho de pasantia?"
+      ],
+      "response": "El examen por derecho de pasantia es el examen que presenta el egresado con la finalidad de aprobar las materias que hayan sido adicionadas al plan de estudios vigente en el momento de haber concluido su carrera. Las condiciones y requisitos para hacer uso de este tipo de examen se establecen en los articulos 32, 33 y 34 del Reglamento de Examenes."
+    },
+    {
+      "tag": "Aprobacion_Asignaturas",
+      "patterns": [
+        "¿Como se aprueban las asignaturas que requieren taller o practicas de laboratorio segun el Articulo 193?",
+        "¿Que sucede si se aprueban las practicas pero se reprueba la teoria en una asignatura?",
+        "¿Cuanto tiempo se conserva la calificacion del taller o laboratorio para fines de acreditacion de la asignatura?"
+      ],
+      "response": "Las asignaturas que requieren taller o practicas de laboratorio solamente pueden ser aprobadas cuando se acredite tanto la teoria como el taller o las practicas. Si se aprueban estas ultimas y se reprueba la teoria, la calificacion del taller o laboratorio podra conservarse, para fines de acreditacion de la asignatura, hasta por dos semestres posteriores a la fecha de aprobacion."
+    },
+    {
+      "tag": "Modalidades_Titulacion",
+      "patterns": [
+        "¿Como se puede obtener el titulo de licenciatura segun el Articulo 201?",
+        "¿Cuales son las modalidades de titulacion disponibles para los egresados?",
+        "¿Que es el Examen General de Conocimientos segun el Articulo 204?"
+      ],
+      "response": "Los egresados pueden obtener el titulo de licenciatura mediante diversas modalidades como Trabajo Recepcional, Tesis, Trabajo por excelencia, Trabajo Colectivo, Memorias de Actividad Profesional, Examen General de Conocimientos, Curso de Opcion a No Trabajo Recepcional, Aprobacion de Estudios de Posgrado, Exencion de Examen por Promedio, Examen General de Egreso de Licenciatura (EGEL), entre otras, segun el Articulo 201. El Examen General de Conocimientos consta de dos partes a desarrollar por escrito, con duracion de cuatro horas cada una."
+    },
+    {
+      "tag": "Servicio_Social",
+      "patterns": [
+        "¿Qué es el Servicio Social según el Artículo 228?",
+        "¿Quién debe realizar el Servicio Social según el Artículo 229?",
+        "¿En qué instituciones no se permite realizar el Servicio Social según el Artículo 230?"
+      ],
+      "response": "El Servicio Social es una actividad profesional obligatoria que el alumno o egresado de licenciatura de la Facultad realiza como requisito para obtener el Título Profesional, según lo establece el artículo 9o. de la Ley de Profesiones y el artículo 70 del Estatuto Orgánico y el Reglamento de Servicio Social de la Universidad Autónoma de San Luis Potosí. En ningún caso, el alumno o egresado debe realizar el servicio social en asociaciones estudiantiles, políticas o religiosas."
+    },
+    {
+      "tag": "Requisitos_Servicio_Social",
+      "patterns": [
+        "¿Cuáles son los requisitos para realizar el Servicio Social según el Artículo 231?",
+        "¿Cómo puede un alumno de posgrado realizar el Servicio Social según el Artículo 232?",
+        "¿Cuánto tiempo dura el Servicio Social según el Artículo 233?"
+      ],
+      "response": "Para realizar el Servicio Social, el alumno debe haber aprobado al menos el 70% de los créditos de su carrera y cumplir con los requisitos que establece su Área Académica, a través del Departamento de Prácticas Profesionales y Servicio Social de la Facultad. El alumno de posgrado puede realizar el Servicio Social desde el inicio de sus estudios, cumpliendo con los requisitos establecidos por el Área de Investigación y Posgrado."
+    },
+    {
+      "tag": "Simbolos_Facultad",
+      "patterns": [
+        "¿Cuáles son los símbolos de la Facultad según el Artículo 245?",
+        "¿Cómo se describe el escudo de la Facultad según el Artículo 248?",
+        "¿Qué colores representan a la Facultad según el Artículo 249?"
+      ],
+      "response": "Los símbolos de la Facultad incluyen el nombre, el lema, el escudo y los colores. El escudo de la Facultad obedece a una descripción específica, destacando la presencia de San Luis Rey, emblema del Estado y de la Ciudad de San Luis Potosí, así como emblemas que muestran caracteres relevantes de la ingeniería. Los colores que representan a la Facultad son el C. Rojo PANTONE 200c y el blanco."
+    },
+    {
+      "tag": "Uso_Simbolos",
+      "patterns": [
+        "¿Quién puede utilizar el lema de la Facultad según el Artículo 251?",
+        "¿Cómo debe figurar el escudo en la papelería oficial según el Artículo 252?",
+        "¿Cuándo se permite el uso de los símbolos de la Facultad según el Artículo 254?"
+      ],
+      "response": "El uso del lema es facultad de ciertos funcionarios para usos oficiales de la Facultad, según el Artículo 251. El escudo y el nombre deben figurar en la papelería oficial de la Facultad, y queda prohibido utilizarlos en documentos particulares. Pueden utilizarse en los vehículos oficiales de la Facultad. El uso indebido de los símbolos de la Facultad es motivo de sanción por parte de las autoridades correspondientes."
+    }
+  ]
+}

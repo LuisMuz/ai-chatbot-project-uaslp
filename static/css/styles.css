@@ -1,0 +1,212 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #cfcfcf;
+}
+
+.chat-interface {
+    width: 80%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.side-panel {
+    width: 20%;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    /*height: 100%;
+    box-sizing: border-box;*/
+}
+
+.chat-message-section{
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.circle-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 25%;
+    overflow: hidden;
+    position: relative;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.normal-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    flex-grow: 3;
+    align-content: center;
+}
+
+.small-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.side-text {
+    font-size:large;
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px;    
+}
+
+.messages {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 10px;
+    padding: .5em;
+    
+}
+
+.input-field {
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid; 
+}
+
+.message-user {
+    background-color: #b6b6b6;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.message-chat {
+    background-color: #148aeb8a;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.send-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.imessage {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    margin: 0 auto 1rem;
+    max-width: 99%;
+    padding: 0.5rem 1.5rem;
+} 
+
+.imessage p {
+    border-radius: 1.15rem;
+    line-height: 1.25;
+    max-width: 80%;
+    padding: 0.5rem .875rem;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.imessage p::before,
+.imessage p::after {
+    bottom: -0.1rem;
+    content: "";
+    height: 1rem;
+    position: absolute;
+}
+
+p.from-me {
+    align-self: flex-end;
+    background-color: #248bf5;
+    color: #fff; 
+}
+
+p.from-me::before {
+    border-bottom-left-radius: 0.8rem 0.7rem;
+    border-right: 1rem solid #248bf5;
+    right: -0.35rem;
+    transform: translate(0, -0.1rem);
+}
+
+p.from-me::after {
+    background-color: #fff;
+    border-bottom-left-radius: 0.5rem;
+    right: -40px;
+    transform:translate(-30px, -2px);
+    width: 10px;
+}
+
+p.from-chat {
+    align-items: flex-start;
+    background-color: #e5e5ea;
+    color: #000;
+  }
+
+p.from-chat:before {
+    border-bottom-right-radius: 0.8rem 0.7rem;
+    border-left: 1rem solid #e5e5ea;
+    left: -0.35rem;
+    transform: translate(0, -0.1rem);
+}
+
+p.from-chat::after {
+    background-color: #fff;
+    border-bottom-right-radius: 0.5rem;
+    left: 20px;
+    transform: translate(-30px, -2px);
+    width: 10px;
+}
+
+.round-button {
+    display: flex;
+    width: 10px;
+    height: 50px; 
+    background-color: #e5e5ea;
+    border: none; 
+    cursor: pointer;
+    bottom: 50%;
+
+    position: absolute;
+    left: 0;
+    margin-left: 10px; 
+    border-radius: 5px;
+}

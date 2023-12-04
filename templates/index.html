@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='images/Aguila.png') }}" type="image/png">
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="chat-interface">
+        <div class="side-panel">
+            <div class="circle-image">
+                <img src="{{ url_for('static', filename='images/Aguila.png') }}" alt="Imagen de Aguila" object-fit="cover">
+            </div>
+            <div class="title">Universidad Autonoma De San Luis Potosi</div>
+            <div class="normal-text"><p>Si tienes alguna duda de como realizar algun tramite o necesitas algun tipo de informacion que este en nuestros reglamentos este chatbot te puede ayudar a extraer esa informacion de manera rapida.</p></div>
+            <div class="small-text">
+                Realizado por:
+                <p>
+                    Giovana Guadalupe Rodríguez Donjuan<br>
+                    Marco Uriel Lopez García<br>
+                    Luis Angel Sánchez Muñiz
+                </p>
+            </div>
+        </div>
+        <div class="chat-message-section">
+            <button class="round-button" id="toggleButton" aria-label="Toggle"></button>
+            <div class="messages">
+                <div class="imessage">
+                    
+                </div>
+            </div>
+            <div class="input-container">
+                <input type="text" class="input-field" placeholder="Type your message...">
+                <button class="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/chat_interaction.js') }}"></script>
+</body>
+</html>
