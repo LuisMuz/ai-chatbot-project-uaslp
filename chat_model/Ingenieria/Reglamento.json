@@ -10,7 +10,7 @@
         "En que consiste la mision de la facultad?"
 
       ],
-      "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi. En este reglamento, la entidad academica se denomina 'la Facultad'. La Facultad es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ingenieria. La mision de la Facultad es la formacion integral de profesionales de la ingenieria con responsabilidad social, etica y vision global. La Facultad busca generar, aplicar y difundir conocimiento y desarrollo tecnologico de vanguardia."
+      "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi. En este reglamento, la entidad academica se denomina 'la Facultad'. La Facultad es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ingenieria."
     },
     {
       "tag": "Oferta_Educativa",
@@ -39,7 +39,7 @@
         "Cuales son los requisitos para ser consejero ante el H. Consejo Tecnico Consultivo segun el Articulo 18?",
         "Que sucede en caso de empate en las sesiones del H. Consejo Tecnico Consultivo segun el Articulo 20?"
       ],
-      "response": "Los consejeros maestros ante el H. Consejo Tecnico Consultivo son electos cada cuatro anos y los consejeros alumnos cada dos anos, durante el mes de marzo en los anos de terminacion par que correspondan. Los consejeros alumnos son elegidos cada dos anos, segun el Articulo 17. El Director emite las convocatorias para la eleccion de consejeros, de acuerdo a lo establecido en el Estatuto Organico. Para ser consejero ante el H. Consejo Tecnico Consultivo, el maestro o alumno aspirante debe cumplir con los requisitos establecidos en los articulos 19 y 20 del Estatuto Organico, y acreditar su representatividad mediante el acta que comprueba su eleccion. En las sesiones del H. Consejo Tecnico Consultivo, los consejeros maestros y alumnos tienen voz y voto. El Director tiene voto de calidad, que ejerce en caso de empate."
+      "response": "Los consejeros maestros ante el H. Consejo Tecnico Consultivo son electos cada cuatro anos y los consejeros alumnos cada dos anos, durante el mes de marzo en los anos de terminacion par que correspondan. Los consejeros alumnos son elegidos cada dos años, segun el Articulo 17. El Director emite las convocatorias para la eleccion de consejeros, de acuerdo a lo establecido en el Estatuto Organico. Para ser consejero ante el H. Consejo Tecnico Consultivo, el maestro o alumno aspirante debe cumplir con los requisitos establecidos en los articulos 19 y 20 del Estatuto Organico, y acreditar su representatividad mediante el acta que comprueba su eleccion. En las sesiones del H. Consejo Tecnico Consultivo, los consejeros maestros y alumnos tienen voz y voto. El Director tiene voto de calidad, que ejerce en caso de empate."
     },
     {
       "tag": "Secretario_General",
@@ -154,9 +154,11 @@
       "patterns": [
         "¿Como se define 'asignatura' segun el Articulo 149?",
         "¿Que se espera que el alumno adquiera al cursar una asignatura?",
-        "¿Que impide que un alumno se inscriba en una materia segun el Articulo 151?"
+        "¿Para que sirven las materias?",
+        "Que son las asignaturas?",
+        "Que objetivo tienen las materias?"
       ],
-      "response": "La asignatura o materia es el conjunto de temas ordenados de manera sistemica que deben ser cubiertos en un curso de escolaridad formal para que el alumno adquiera conocimientos, habilidades, aptitudes y/o actitudes que coadyuven a alcanzar el perfil establecido del profesionista. El alumno no puede inscribirse en una materia si no ha aprobado la asignatura establecida como prerrequisito por incompatibilidad, seriacion u otras razones."
+      "response": "La asignatura o materia es el conjunto de temas ordenados de manera sistemica que deben ser cubiertos en un curso de escolaridad formal para que el alumno adquiera conocimientos, habilidades, aptitudes y/o actitudes que coadyuven a alcanzar el perfil establecido del profesionista."
     },
     {
       "tag": "Materia_no_inscrita",
@@ -171,18 +173,47 @@
     {
       "tag": "Actividades_Asignatura",
       "patterns": [
-        "¿Cuales son las actividades incluidas en una asignatura segun el Articulo 156?",
-        "¿En que consiste la actividad de 'Taller' segun el Articulo 156?",
-        "¿Que implica la 'Practica de campo' en una asignatura segun el Articulo 156?"
+        "¿Cuales son las actividades incluidas en una asignatura?",
+        "¿Qué actividades están comprendidas en una asignatura?",
+        "¿Cuáles son las actividades que forman parte de una asignatura?",
+        "¿Qué actividades se incluyen en una asignatura?",
+        "¿Cuáles son las actividades contempladas en una asignatura?"
       ],
-      "response": "Una asignatura puede incluir actividades como clase teorica, laboratorio, taller y practica de campo. La clase teorica se realiza para exponer, analizar y evaluar el contenido tematico. El laboratorio es una actividad en instalaciones especificas para demostrar o experimentar sobre los contenidos expuestos en la clase teorica. El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
+      "response": "Una asignatura puede incluir actividades como clase teorica, laboratorio, taller y practica de campo. La clase teorica se realiza para exponer, analizar y evaluar el contenido tematico."
     },
     {
-      "tag": "Carga_Academica",
+      "tag": "Laboratorio",
+      "patterns": [
+        "¿Que son los laboratorios dentro de una asignatura?",
+        "¿Para que son los laboratorios?",
+        "¿Qué propósito cumplen los laboratorios dentro de una asignatura?",
+        "¿Cuál es el rol de los laboratorios en una asignatura?",
+        "¿Para qué se utilizan los laboratorios dentro de una asignatura?"
+      ],
+      "response": "El laboratorio es una actividad en instalaciones especificas para demostrar o experimentar sobre los contenidos expuestos en la clase teorica. El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
+    },
+    {
+      "tag": "Talleres_y_Practicas_de_campo",
+      "patterns": [
+        "¿Que son los laboratorios dentro de una asignatura?",
+        "¿Para que sirven las practicas de campo?",
+        "¿Cuál es la naturaleza de los laboratorios en una asignatura?",
+        "¿Cuál es el propósito de las prácticas de campo?",
+        "¿Qué función cumplen los laboratorios en una asignatura?",
+        "¿Con qué objetivo se llevan a cabo las prácticas de campo?"
+      ],
+      "response": "El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
+    },
+    {
+      "tag": "Carga_maxima",
       "patterns": [
         "¿Cual es el numero maximo de creditos que un alumno puede cursar por semestre segun el Articulo 160?",
         "¿En que condiciones un alumno puede inscribir una materia adicional segun el Articulo 161?",
-        "¿Como cambia la posibilidad de inscribir creditos adicionales si el alumno aprueba la totalidad de asignaturas inscritas segun el Articulo 162?"
+        "¿Como cambia la posibilidad de inscribir creditos adicionales si el alumno aprueba la totalidad de asignaturas inscritas segun el Articulo 162?",
+        "¿A que se refiere la carga maxima?",
+        "¿Cuantos creditos me permite la carga maxima?",
+        "Cual es el limite de creditos que puedo inscribir?",
+        "Que es la carga maxima?"
       ],
       "response": "El numero maximo de creditos que un alumno puede cursar por semestre, de manera ordinaria, es de 50 segun el Articulo 160. Si en el semestre anterior aprobo al menos 45 creditos con un promedio minimo de ocho, puede optar por inscribir una materia adicional, previa autorizacion del Tutor Academico, segun el Articulo 161. Si aprueba la totalidad de asignaturas inscritas, puede inscribir la misma cantidad de creditos independientemente del promedio obtenido (Articulo 162). Si aprueba todas las asignaturas con promedio de ocho o mayor, puede optar por inscribir una asignatura adicional hasta un maximo de 70 creditos (Articulo 163)."
     },
