@@ -6,7 +6,9 @@
         "Como se denomina la Facultad en este reglamento?",
         "Cual es el proposito de la Facultad segun el Articulo 2?",
         "Cual es el enfoque de la Facultad segun el Articulo 3?",
-        "Cual es el objetivo de la Facultad en cuanto a la formacion de profesionales?"
+        "Cual es el objetivo de la Facultad en cuanto a la formacion de profesionales?",
+        "En que consiste la mision de la facultad?"
+
       ],
       "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi. En este reglamento, la entidad academica se denomina 'la Facultad'. La Facultad es una entidad academica de educacion superior dedicada a la ensenanza, investigacion y difusion de la ingenieria. La mision de la Facultad es la formacion integral de profesionales de la ingenieria con responsabilidad social, etica y vision global. La Facultad busca generar, aplicar y difundir conocimiento y desarrollo tecnologico de vanguardia."
     },
@@ -24,7 +26,7 @@
       "tag": "Objetivo_facultad",
       "patterns": [
         "Cual es el objetivo de la facultad",
-        "Que objetivo tiene la facultad"
+        "Que objetivo tiene la facultad?"
       ],
       "response": "El objetivo de la Facultad es ofrecer programas educativos de licenciatura en diversas disciplinas de ingenieria."
     },
