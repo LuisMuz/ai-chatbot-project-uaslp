@@ -14,12 +14,19 @@
       "tag": "Oferta_Educativa",
       "patterns": [
         "Que areas academicas ofrece la Facultad segun el Articulo 6?",
-        "Cuales son los programas educativos de licenciatura que ofrece la Facultad?",
         "En cuantas Areas Academicas se divide la Facultad?",
         "Dime las disciplinas que abarcan los programas educativos de licenciatura segun el Articulo 6.",
         "Cual es el objetivo de la Facultad en cuanto a la oferta educativa?"
       ],
-      "response": "La Facultad ofrece programas educativos de licenciatura a traves de las Areas Academicas Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales. Los programas educativos de licenciatura que ofrece la Facultad se encuentran en las Areas Academicas mencionadas en el Articulo 6. La Facultad se divide en seis Areas Academicas segun el Articulo 6. Los programas educativos de licenciatura abarcan disciplinas en Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales. El objetivo de la Facultad es ofrecer programas educativos de licenciatura en diversas disciplinas de ingenieria."
+      "response": "La Facultad ofrece programas educativos de licenciatura a traves de las Areas Academicas Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales. Los programas educativos de licenciatura que ofrece la Facultad se encuentran en las Areas Academicas mencionadas en el Articulo 6. La Facultad se divide en seis Areas Academicas segun el Articulo 6. Los programas educativos de licenciatura abarcan disciplinas en Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales."
+    },
+    {
+      "tag": "Objetivo_facultad",
+      "patterns": [
+        "Cual es el objetivo de la facultad",
+        "Que objetivo tiene la facultad"
+      ],
+      "response": "El objetivo de la Facultad es ofrecer programas educativos de licenciatura en diversas disciplinas de ingenieria."
     },
     {
       "tag": "Consejo_Tecnico_Consultivo",
