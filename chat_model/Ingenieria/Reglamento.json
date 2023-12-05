@@ -150,6 +150,16 @@
       "response": "La asignatura o materia es el conjunto de temas ordenados de manera sistemica que deben ser cubiertos en un curso de escolaridad formal para que el alumno adquiera conocimientos, habilidades, aptitudes y/o actitudes que coadyuven a alcanzar el perfil establecido del profesionista. El alumno no puede inscribirse en una materia si no ha aprobado la asignatura establecida como prerrequisito por incompatibilidad, seriacion u otras razones."
     },
     {
+      "tag": "Materia_no_inscrita",
+      "patterns": [
+        "¿Que impide que un alumno se inscriba en una materia segun el Articulo 151?",
+        "¿Cuales son los impedimentos para que un estudiante se matricule en una materia?",
+        "¿Cuales son los obstaculos para la inscripcion de un alumno en una materia"
+        
+      ],
+      "response": "El alumno no puede inscribirse en una materia si no ha aprobado la asignatura establecida como prerrequisito por incompatibilidad, seriacion u otras razones."
+    },
+    {
       "tag": "Actividades_Asignatura",
       "patterns": [
         "¿Cuales son las actividades incluidas en una asignatura segun el Articulo 156?",
