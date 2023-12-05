@@ -31,6 +31,7 @@
     {
       "tag": "Consejo_Tecnico_Consultivo",
       "patterns": [
+        "Como se eligen los consejeros maestros segun el Articulo 17?",
         "Cada cuanto tiempo se eligen los consejeros alumnos segun el Articulo 17?",
         "Quien emite las convocatorias para la eleccion de consejeros?",
         "Cuales son los requisitos para ser consejero ante el H. Consejo Tecnico Consultivo segun el Articulo 18?",
@@ -141,7 +142,8 @@
         "patterns": [
             "Que es el plan de estudios segun el Articulo 148?",
             "Quien establece las normas del plan de estudios segun el Articulo 148?",
-            "Hasta cuando debe cumplir un alumno con el plan de estudios?"
+            "Hasta cuando debe cumplir un alumno con el plan de estudios?",
+            "Para que sirve el plan de estudios"
         ],
         "response": "El plan de estudios es el conjunto de asignaturas, normas y condiciones que el alumno de la Facultad debe cumplir durante su permanencia como estudiante y hasta adquirir la calidad de egresado. Las normas son establecidas desde diferentes ambitos: Universidad, Facultad y Area Academica."
     },
