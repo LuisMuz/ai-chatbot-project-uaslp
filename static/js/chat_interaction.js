@@ -34,21 +34,22 @@ document.querySelector('.input-field').addEventListener('keydown', function(even
 document.querySelector('.send-button').addEventListener('click', function() {
     const inputField = document.querySelector('.input-field');
     const message = inputField.value;
-    folder = actualCheckbox;
+    //folder = actualCheckbox;
     chatbotResponse = "Default";
 
     if (message) {
         addMessageToList('You', message, 1);
         inputField.value = '';
-        console.log(folder)
+        //console.log(folder)
         
         fetch('/chat_response', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
             },
-            body: `user_message=${encodeURIComponent(message)}
-                    &folder_location=${encodeURIComponent(folder)}`,
+            /*body: `user_message=${encodeURIComponent(message)}
+                    &folder_location=${encodeURIComponent(folder)}`,*/
+            body: `user_message=${encodeURIComponent(message)}`,
         })
         .then(response => response.text())
         .then(data => {
@@ -65,7 +66,7 @@ document.getElementById('toggleButton').addEventListener('click', function() {
     var currentDisplayStyle = window.getComputedStyle(sidePanel).display;
     sidePanel.style.display = (currentDisplayStyle === 'none') ? '' : 'none';
 });
-
+/*
 const checkboxes = document.querySelectorAll('.checkbox-list input[type="checkbox"]');
 actualCheckbox = "Ingenieria";
 
@@ -80,4 +81,4 @@ checkboxes.forEach(checkbox => {
             });
         }
     });
-});
+});*/

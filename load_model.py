@@ -9,13 +9,11 @@ from nltk.stem import WordNetLemmatizer
 
 lemmatizer = WordNetLemmatizer()
 
-def get_folder_value():
-  with open('chat_model/folder_value.txt', 'r') as file:
-    return file.read().strip()
+#def get_folder_value():
+#  with open('chat_model/folder_value.txt', 'r') as file:
+#    return file.read().strip()
 
-folder = get_folder_value()
-
-
+folder = "Habitat"
 
 print(f"El valor para la carpeta del modelo es: {folder}")
 # loading the files we made previously
