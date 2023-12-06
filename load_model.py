@@ -7,6 +7,9 @@ import nltk
 from keras.models import load_model
 from nltk.stem import WordNetLemmatizer
 
+nltk.download('wordnet')
+nltk.download('punkt')
+
 lemmatizer = WordNetLemmatizer()
 
 #def get_folder_value():

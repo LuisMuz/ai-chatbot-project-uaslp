@@ -3,58 +3,58 @@
     {
       "tag": "Nombre_Entidad",
       "patterns": [
-        "¿Cuál es el nombre oficial de la entidad academica?",
-        "¿Cuál es el nombre oficial de la facultad?",
-        "¿Cuál es la denominación oficial de la entidad académica?",
-        "¿Cuál es el nombre formal de la facultad?",
-        "¿Cómo se llama oficialmente la entidad académica?",
-        "¿Cuál es la designación oficial de la facultad?"
+        "¿Cual es el nombre oficial de la entidad academica?",
+        "¿Cual es el nombre oficial de la facultad?",
+        "¿Cual es la denominacion oficial de la entidad academica?",
+        "¿Cual es el nombre formal de la facultad?",
+        "¿Como se llama oficialmente la entidad academica?",
+        "¿Cual es la designacion oficial de la facultad?"
       ],
       "response": "El nombre oficial de la entidad academica es Facultad de Ingenieria de la Universidad Autonoma de San Luis Potosi."
     },
     {
       "tag": "Definicion_Mision",
       "patterns": [
-        "¿Cuál es el objetivo de la Facultad en cuanto a la formacion de profesionales?",
-        "¿Cuál es la misión que persigue la Facultad?",
-        "¿Cuál es el propósito fundamental de la Facultad?",
-        "¿Cuál es el cometido que tiene la Facultad?",
-        "¿Cuál es el objetivo principal que guía a la Facultad en su labor educativa?"
+        "¿Cual es el objetivo de la Facultad en cuanto a la formacion de profesionales?",
+        "¿Cual es la mision que persigue la Facultad?",
+        "¿Cual es el proposito fundamental de la Facultad?",
+        "¿Cual es el cometido que tiene la Facultad?",
+        "¿Cual es el objetivo principal que guia a la Facultad en su labor educativa?"
       ],
-      "response": "La Misión de la Facultad es la formación integral de profesionales de la ingeniería, competitivos, emprendedores, innovadores, con responsabilidad social, con una claraconciencia ética, con una visión informada y global del mundo, así como la generación, aplicación, difusión del conocimiento y del desarrollo tecnológico de vanguardia."
+      "response": "La Mision de la Facultad es la formacion integral de profesionales de la ingenieria, competitivos, emprendedores, innovadores, con responsabilidad social, con una claraconciencia etica, con una vision informada y global del mundo, asi como la generacion, aplicacion, difusion del conocimiento y del desarrollo tecnologico de vanguardia."
     },
     {
       "tag": "Areas_Academicas",
       "patterns": [
         "¿En cuantas Areas Academicas se divide la Facultad?",
-        "¿Cuántas divisiones académicas conforman la Facultad?",
-        "¿Cuál es la cantidad de áreas académicas en las que se segmenta la Facultad?",
-        "¿En cuántas secciones académicas está dividida la Facultad?",
-        "¿Cuál es el número de divisiones en las que se organiza la Facultad en términos académicos?"
+        "¿Cuantas divisiones academicas conforman la Facultad?",
+        "¿Cual es la cantidad de areas academicas en las que se segmenta la Facultad?",
+        "¿En cuantas secciones academicas esta dividida la Facultad?",
+        "¿Cual es el numero de divisiones en las que se organiza la Facultad en terminos academicos?"
       ],
-      "response": "La Facultad se divide en seis Areas Academicas segun el Articulo 6. Estás son las Areas Academicas Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales."
+      "response": "La Facultad se divide en seis Areas Academicas segun el Articulo 6. Estas son las Areas Academicas Agroindustrial, Ciencias de la Tierra, Civil, Computacion e Informatica, Mecanica y Electrica, y Metalurgia y Materiales."
     },
     {
       "tag": "Área_de_Materias_Comunes",
       "patterns": [
-        "¿Qué es la área de materias comunes?",
-        "Explícame qué significa el término área de materias comunes.",
-        "¿Puedes detallar qué implica la expresión área de materias comunes?",
-        "Háblame acerca de la definición de área de materias comunes.",
-        "Dime más sobre el concepto de área de materias comunes."
+        "¿Que es la area de materias comunes?",
+        "Explicame que significa el termino area de materias comunes.",
+        "¿Puedes detallar que implica la expresion area de materias comunes?",
+        "Hablame acerca de la definicion de area de materias comunes.",
+        "Dime mas sobre el concepto de area de materias comunes."
       ],
-    "response": "El Área de Materias Comunes es un área de apoyo a los programas educativos y ofrece las materias del tronco común de las ingenierías."
+      "response": "El Area de Materias Comunes es un area de apoyo a los programas educativos y ofrece las materias del tronco comun de las ingenierias."
     },
     {
       "tag": "Director",
       "patterns": [
-        "¿Qué es el director de la facultad?",
-        "¿Quién es el director de la facultad?",
+        "¿Que es el director de la facultad?",
+        "¿Quien es el director de la facultad?",
         "Define el rol del director de la facultad.",
-        "Explica las funciones que desempeña el director de la facultad.",
-        "Háblame sobre la posición del director en la facultad."
+        "Explica las funciones que desempena el director de la facultad.",
+        "Hablame sobre la posicion del director en la facultad."
       ],
-      "response": "El Director es el representante del Rector en la Facultad, conforme lo establece el artículo 44 del Estatuto Orgánico, con autoridad administrativa y académica; responsable del cumplimiento de la normativa, de los acuerdos del H. Consejo Directivo Universitario y del Rector concernientes a la Facultad."
+      "response": "El Director es el representante del Rector en la Facultad, conforme lo establece el articulo 44 del Estatuto Organico, con autoridad administrativa y academica; responsable del cumplimiento de la normativa, de los acuerdos del H. Consejo Directivo Universitario y del Rector concernientes a la Facultad."
     },
     {
       "tag": "Secretario_General",
@@ -70,12 +70,12 @@
       "tag": "Requitos_Secretario_General",
       "patterns": [
         "¿Cuales son los requisitos para ser Secretario General segun el Articulo 35?",
-        "Puedes detallar los requisitos establecidos por el Artículo 35 para ocupar el cargo de Secretario General?",
-        "¿Cuáles son los criterios que el Artículo 35 establece para ser Secretario General?",
-        "Explícame los requisitos para ser Secretario General.",
-        "Dime cuáles son los criterios necesarios para asumir el cargo de Secretario General."
+        "Puedes detallar los requisitos establecidos por el Articulo 35 para ocupar el cargo de Secretario General?",
+        "¿Cuales son los criterios que el Articulo 35 establece para ser Secretario General?",
+        "Explicame los requisitos para ser Secretario General.",
+        "Dime cuales son los criterios necesarios para asumir el cargo de Secretario General."
       ],
-      "response": "Los requisitos para ser Secretario General son los siguientes: a) Tener título de licenciatura afín a los programas que se imparten en la Facultad, expedido por una universidad reconocida. b) Ser persona de honorabilidad reconocida y distinguirse por su entrega al desempeño de su profesión. c) Ser profesor de la Facultad, con antigüedad mínima e ininterrumpida en los últimos cinco años. d) No desempeñar ningún cargo de elección popular o gremial universitario, ni ser empleado o funcionario público."
+      "response": "Los requisitos para ser Secretario General son los siguientes: a) Tener titulo de licenciatura afin a los programas que se imparten en la Facultad, expedido por una universidad reconocida. b) Ser persona de honorabilidad reconocida y distinguirse por su entrega al desempeno de su profesion. c) Ser profesor de la Facultad, con antiguedad minima e ininterrumpida en los ultimos cinco anos. d) No desempenar ningun cargo de eleccion popular o gremial universitario, ni ser empleado o funcionario publico."
     },
     {
       "tag": "Servicios_Educativos",
@@ -88,254 +88,254 @@
       "response": "La Facultad de Ingenieria ofrece servicios educativos a traves de programas de licenciatura y posgrado, cursos de actualizacion y extension, educacion continua, y servicios de investigacion y asesoria. La matricula de la Facultad se integra con estudiantes de nuevo ingreso, regulares, irregulares, especiales, y de intercambio nacional o extranjero. Los servicios a los que se refiere el servicio de Accion Social incluyen actividades y proyectos que vinculan a la Facultad con la sociedad, fomentando la participacion de estudiantes y profesores en proyectos de beneficio social. La matricula de la Facultad se integra con estudiantes de nuevo ingreso, regulares, irregulares, especiales, y de intercambio nacional o extranjero."
     },
     {
-        "tag": "Responsabilidades_Secretario_Academico",
-        "patterns": [
-            "¿Cuales son las responsabilidades del Secretario Academico segun el Articulo 39?",
-            "¿Podrías describir las responsabilidades atribuidas al Secretario Académico?",
-            "Explica cuáles son las funciones asignadas al Secretario Académico.",
-            "¿Cuáles son las tareas y obligaciones que el Artículo 39 asigna al Secretario Académico?",
-            "Dime más sobre las responsabilidades para el cargo de Secretario Académico."
-        ],
-        "response": "El Secretario Academico tiene responsabilidades como ser el auxiliar del Director de la Facultad en asuntos de Movilidad Academica, supervisar el proceso de ingreso de alumnos por revalidacion de asignaturas, supervisar el proceso de cambio de carrera, coordinar con los Secretarios General y Escolar el proceso de admision de aspirantes, coordinar actividades de difusion de la oferta educativa y cumplir con las demas responsabilidades que establece la normativa universitaria y el Director de la Facultad."
+      "tag": "Responsabilidades_Secretario_Academico",
+      "patterns": [
+        "¿Cuales son las responsabilidades del Secretario Academico segun el Articulo 39?",
+        "¿Podrias describir las responsabilidades atribuidas al Secretario Academico?",
+        "Explica cuales son las funciones asignadas al Secretario Academico.",
+        "¿Cuales son las tareas y obligaciones que el Articulo 39 asigna al Secretario Academico?",
+        "Dime mas sobre las responsabilidades para el cargo de Secretario Academico."
+      ],
+      "response": "El Secretario Academico tiene responsabilidades como ser el auxiliar del Director de la Facultad en asuntos de Movilidad Academica, supervisar el proceso de ingreso de alumnos por revalidacion de asignaturas, supervisar el proceso de cambio de carrera, coordinar con los Secretarios General y Escolar el proceso de admision de aspirantes, coordinar actividades de difusion de la oferta educativa y cumplir con las demas responsabilidades que establece la normativa universitaria y el Director de la Facultad."
     },
     {
       "tag": "Secretario_Escolar",
       "patterns": [
-        "¿Qué es el secretario escolar?",
-        "Explica en qué consiste la posición de secretario escolar.",
-        "¿Cuáles son las responsabilidades atribuidas al secretario escolar?",
-        "Háblame acerca de la labor desempeñada por el secretario escolar."
+        "¿Que es el secretario escolar?",
+        "Explica en que consiste la posicion de secretario escolar.",
+        "¿Cuales son las responsabilidades atribuidas al secretario escolar?",
+        "Hablame acerca de la labor desempenada por el secretario escolar."
       ],
-      "response": "El Secretario Escolar es el encargado de los asuntos escolares, es nombrado o removido por el Rector a propuesta del Director y depende directamente de éste."
+      "response": "El Secretario Escolar es el encargado de los asuntos escolares, es nombrado o removido por el Rector a propuesta del Director y depende directamente de este."
     },
     {
       "tag": "Requitos_Secretario_Escolar",
       "patterns": [
-        "¿Cuáles son los requisitos para ser secretario escolar",
-        "¿Podrías indicar cuáles son los criterios necesarios para ser secretario escolar?",
-        "Explícame cuáles son los requisitos que se deben cumplir para ocupar el puesto de secretario escolar.",
-        "¿Qué condiciones o cualidades se necesitan para ser elegido como secretario escolar?",
+        "¿Cuales son los requisitos para ser secretario escolar",
+        "¿Podrias indicar cuales son los criterios necesarios para ser secretario escolar?",
+        "Explicame cuales son los requisitos que se deben cumplir para ocupar el puesto de secretario escolar.",
+        "¿Que condiciones o cualidades se necesitan para ser elegido como secretario escolar?",
         "Dime cuales son los requisitos que se establecen para el cargo de secretario escolar."
       ],
       "response": "Para ser Secretario Escolar de la Facultad es necesario cumplir con los mismos requisitos que para ser Secretario General de la misma."
     },
     {
-        "tag": "Responsabilidades_Secretario_Escolar",
-        "patterns": [
-            "¿Cuales son las responsabilidades del Secretario Escolar segun el Articulo 42?",
-            "¿Podrías detallar las responsabilidades que el Artículo 42 asigna al Secretario Escolar?",
-            "Explícame las funciones específicas que se mencionan en el Artículo 42 para el Secretario Escolar.",
-            "¿Cuáles son las obligaciones que establece el Artículo 42 para el cargo de Secretario Escolar?",
-            "Dime más acerca de las responsabilidades que el Artículo 42 delinea para el Secretario Escolar."
-        ],
-        "response": "El Secretario Escolar tiene responsabilidades como elaborar la agenda y calendario de actividades semestrales en coordinacion con el Secretario General y el Secretario Academico, planificar y organizar la aplicacion de examenes parciales y supervisar la entrega de calificaciones, coordinar con los Secretarios General y Academico el proceso de admision de aspirantes, mantener actualizado el kardex a traves del sistema de informacion, y cumplir con otras responsabilidades segun la normativa universitaria y el Director de la Facultad. El Secretario Escolar es nombrado o removido por el Rector a propuesta del Director."
+      "tag": "Responsabilidades_Secretario_Escolar",
+      "patterns": [
+        "¿Cuales son las responsabilidades del Secretario Escolar segun el Articulo 42?",
+        "¿Podrias detallar las responsabilidades que el Articulo 42 asigna al Secretario Escolar?",
+        "Explicame las funciones especificas que se mencionan en el Articulo 42 para el Secretario Escolar.",
+        "¿Cuales son las obligaciones que establece el Articulo 42 para el cargo de Secretario Escolar?",
+        "Dime mas acerca de las responsabilidades que el Articulo 42 delinea para el Secretario Escolar."
+      ],
+      "response": "El Secretario Escolar tiene responsabilidades como elaborar la agenda y calendario de actividades semestrales en coordinacion con el Secretario General y el Secretario Academico, planificar y organizar la aplicacion de examenes parciales y supervisar la entrega de calificaciones, coordinar con los Secretarios General y Academico el proceso de admision de aspirantes, mantener actualizado el kardex a traves del sistema de informacion, y cumplir con otras responsabilidades segun la normativa universitaria y el Director de la Facultad. El Secretario Escolar es nombrado o removido por el Rector a propuesta del Director."
     },
     {
-        "tag": "Coordinador_de_Carrera",
-        "patterns": [
-            "Que responsabilidad tiene el Coordinador de Carrera segun el Articulo 55?",
-            "¿Qué es el coordinador de carrera?",
-            "¿Cuál es la responsabilidad asignada al Coordinador de Carrera?",
-            "Explícame las funciones específicas para el Coordinador de Carrera.",
-            "¿Qué obligaciones se mencionan en el Artículo 55 para el cargo de Coordinador de Carrera?",
-            "Dime más acerca de las responsabilidades que se atribuyen al Coordinador de Carrera."
-            ],
-        "response": "El Coordinador de Carrera es responsable de un programa educativo de licenciatura."
+      "tag": "Coordinador_de_Carrera",
+      "patterns": [
+        "Que responsabilidad tiene el Coordinador de Carrera segun el Articulo 55?",
+        "¿Que es el coordinador de carrera?",
+        "¿Cual es la responsabilidad asignada al Coordinador de Carrera?",
+        "Explicame las funciones especificas para el Coordinador de Carrera.",
+        "¿Que obligaciones se mencionan en el Articulo 55 para el cargo de Coordinador de Carrera?",
+        "Dime mas acerca de las responsabilidades que se atribuyen al Coordinador de Carrera."
+      ],
+      "response": "El Coordinador de Carrera es responsable de un programa educativo de licenciatura."
     },
     {
       "tag": "Coordinador_General_De_Posgrados",
       "patterns": [
         "Cual es la funcion del Coordinador General de Posgrados segun el Articulo 56?",
-        "¿Qué es el Coordinador General de Posgrados?",
-        "¿Podrías explicar cuál es la función del Coordinador General de Posgrados según lo establecido en el Artículo 56?",
-        "Dime más sobre las responsabilidades que el Artículo 56 asigna al Coordinador General de Posgrados.",
-        "¿Cuál es el papel específico del Coordinador General de Posgrados, de acuerdo con el Artículo 56?"
+        "¿Que es el Coordinador General de Posgrados?",
+        "¿Podrias explicar cual es la funcion del Coordinador General de Posgrados segun lo establecido en el Articulo 56?",
+        "Dime mas sobre las responsabilidades que el Articulo 56 asigna al Coordinador General de Posgrados.",
+        "¿Cual es el papel especifico del Coordinador General de Posgrados, de acuerdo con el Articulo 56?"
       ],
-      "response": "El Coordinador General de Posgrados es el auxiliar del Jefe de Área de Investigación y Posgrado en la supervisión de la operación de los programas de posgrado"
+      "response": "El Coordinador General de Posgrados es el auxiliar del Jefe de Area de Investigacion y Posgrado en la supervision de la operacion de los programas de posgrado"
     },
     {
       "tag": "Coordinador_De_Investigación",
       "patterns": [
         "Cual es la responsabilidad del Coordinador de Investigacion segun el Articulo 57?",
-        "¿Qué es el Coordinador de Investigación",
-        "¿Cuál es la responsabilidad que el Artículo 57 asigna al Coordinador de Investigación?",
-        "Dime más acerca de las funciones específicas del Coordinador de Investigación según el Artículo 57.",
-        "¿Qué obligaciones se mencionan en el Artículo 57 para el cargo de Coordinador de Investigación?",
-        "Explícame cuál es la responsabilidad del Coordinador de Investigación, según las disposiciones del Artículo 57.",
-        "¿Podrías explicar qué implica ser el Coordinador de Investigación?",
-        "Dime más acerca de la posición y funciones del Coordinador de Investigación.",
-        "¿Cuál es el rol del Coordinador de Investigación en la institución?",
-        "Explícame qué significa ser el Coordinador de Investigación en ese contexto."
+        "¿Que es el Coordinador de Investigacion",
+        "¿Cual es la responsabilidad que el Articulo 57 asigna al Coordinador de Investigacion?",
+        "Dime mas acerca de las funciones especificas del Coordinador de Investigacion segun el Articulo 57.",
+        "¿Que obligaciones se mencionan en el Articulo 57 para el cargo de Coordinador de Investigacion?",
+        "Explicame cual es la responsabilidad del Coordinador de Investigacion, segun las disposiciones del Articulo 57.",
+        "¿Podrias explicar que implica ser el Coordinador de Investigacion?",
+        "Dime mas acerca de la posicion y funciones del Coordinador de Investigacion.",
+        "¿Cual es el rol del Coordinador de Investigacion en la institucion?",
+        "Explicame que significa ser el Coordinador de Investigacion en ese contexto."
       ],
-      "response": "El Coordinador de Investigación es el auxiliar del Jefe de Área de Investigación y Posgrado en la supervisión del desarrollo de las líneas de investigación y del programa de trabajo colegiado de los cuerpos académicos."
+      "response": "El Coordinador de Investigacion es el auxiliar del Jefe de Area de Investigacion y Posgrado en la supervision del desarrollo de las lineas de investigacion y del programa de trabajo colegiado de los cuerpos academicos."
     },
     {
       "tag": "Coordinador_Académico_de_Posgrado",
       "patterns": [
         "Que funcion realiza el Coordinador Academico de Posgrado segun el Articulo 58?",
-        "¿Qué es el Coordinador Académico de Posgrado?",
-        "¿Podrías detallar la función que desempeña el Coordinador Académico de Posgrado según lo establecido en el Artículo 58?",
-        "Dime más acerca de las responsabilidades específicas del Coordinador Académico de Posgrado según el Artículo 58.",
-        "¿Cuál es el papel que se le asigna al Coordinador Académico de Posgrado en virtud del Artículo 58?",
-        "Explícame las funciones y tareas del Coordinador Académico de Posgrado de acuerdo con el Artículo 58.",
-        "¿Qué implica ser el Coordinador Académico de Posgrado?",
-        "Dime más sobre la posición y funciones del Coordinador Académico de Posgrado.",
-        "¿Cuál es el rol específico del Coordinador Académico de Posgrado en la institución?",
-        "Explícame qué significa ser el Coordinador Académico de Posgrado en ese contexto."
+        "¿Que es el Coordinador Academico de Posgrado?",
+        "¿Podrias detallar la funcion que desempena el Coordinador Academico de Posgrado segun lo establecido en el Articulo 58?",
+        "Dime mas acerca de las responsabilidades especificas del Coordinador Academico de Posgrado segun el Articulo 58.",
+        "¿Cual es el papel que se le asigna al Coordinador Academico de Posgrado en virtud del Articulo 58?",
+        "Explicame las funciones y tareas del Coordinador Academico de Posgrado de acuerdo con el Articulo 58.",
+        "¿Que implica ser el Coordinador Academico de Posgrado?",
+        "Dime mas sobre la posicion y funciones del Coordinador Academico de Posgrado.",
+        "¿Cual es el rol especifico del Coordinador Academico de Posgrado en la institucion?",
+        "Explicame que significa ser el Coordinador Academico de Posgrado en ese contexto."
       ],
-      "response": "El Coordinador Académico de Posgrado es el responsable de un programa educativo de posgrado y equivale al Coordinador Académico al que se hace referencia en el artículo 16 del Reglamento General de Estudios de Posgrado."
+      "response": "El Coordinador Academico de Posgrado es el responsable de un programa educativo de posgrado y equivale al Coordinador Academico al que se hace referencia en el articulo 16 del Reglamento General de Estudios de Posgrado."
     },
     {
       "tag": "Requitos_Coordinador",
       "patterns": [
-        "¿Qué requisitos se deben cumplir para ser coordinador segun el Articulo 59?",
-        "¿Puedes detallar los requisitos que establece el Artículo 59 para ser coordinador?",
-        "Explícame cuáles son los criterios que se deben cumplir para ocupar el cargo de coordinador.",
-        "¿Cuáles son las condiciones necesarias para ser designado como coordinador?",
-        "Dime sobre los requisitos que el Artículo 59 establece para ser coordinador."
+        "¿Que requisitos se deben cumplir para ser coordinador segun el Articulo 59?",
+        "¿Puedes detallar los requisitos que establece el Articulo 59 para ser coordinador?",
+        "Explicame cuales son los criterios que se deben cumplir para ocupar el cargo de coordinador.",
+        "¿Cuales son las condiciones necesarias para ser designado como coordinador?",
+        "Dime sobre los requisitos que el Articulo 59 establece para ser coordinador."
       ],
-      "response": "Para ser coordinador, en cualquiera de sus modalidades, es necesario cumplir con los mismos requisitos que para el Jefe de Área Académica correspondiente, a excepción de la antigüedad mínima que debe ser de tres años, salvo para los programas educativos de nueva creación. El Coordinador es nombrado o removido por el Rector a propuesta del Director y depende directamente del Jefe de Área Académica o de Investigación y Posgrado a la cual está adscrito."
+      "response": "Para ser coordinador, en cualquiera de sus modalidades, es necesario cumplir con los mismos requisitos que para el Jefe de Area Academica correspondiente, a excepcion de la antiguedad minima que debe ser de tres anos, salvo para los programas educativos de nueva creacion. El Coordinador es nombrado o removido por el Rector a propuesta del Director y depende directamente del Jefe de Area Academica o de Investigacion y Posgrado a la cual esta adscrito."
     },
     {
-        "tag": "Definicion_Alumno",
-        "patterns": [
-            "¿Como se define 'alumno' segun el Articulo 127?",
-            "¿Qué es un alumno?",
-            "¿Podrías explicar la definición de 'alumno'?",
-            "Dime más acerca de cómo se define 'alumno'.",
-            "¿Cuál es la interpretación de 'alumno'?",
-            "Explícame la definición de 'alumno'."
-        ],
-        "response": "Segun el Articulo 127, Alumno es la persona que está inscrita académica y administrativamente en un programa educativo de escolaridad formal que ofrezca la Facultad y que otorgue un grado académico, adquiriendo con ello los derechos y prerrogativas que le corresponda, así como la obligación de sujetarse a todas las disposiciones legales, políticas y procedimientos establecidos en la normativa universitaria."
+      "tag": "Definicion_Alumno",
+      "patterns": [
+        "¿Como se define 'alumno' segun el Articulo 127?",
+        "¿Que es un alumno?",
+        "¿Podrias explicar la definicion de 'alumno'?",
+        "Dime mas acerca de como se define 'alumno'.",
+        "¿Cual es la interpretacion de 'alumno'?",
+        "Explicame la definicion de 'alumno'."
+      ],
+      "response": "Segun el Articulo 127, Alumno es la persona que esta inscrita academica y administrativamente en un programa educativo de escolaridad formal que ofrezca la Facultad y que otorgue un grado academico, adquiriendo con ello los derechos y prerrogativas que le corresponda, asi como la obligacion de sujetarse a todas las disposiciones legales, politicas y procedimientos establecidos en la normativa universitaria."
     },
     {
       "tag": "Alumno_Responsable",
       "patterns": [
-        "¿De qué es responsable el alumno?",
-        "¿Cuáles son las responsabilidades asignadas al alumno?",
+        "¿De que es responsable el alumno?",
+        "¿Cuales son las responsabilidades asignadas al alumno?",
         "Dime de que es responsable el alumno.",
-        "¿De qué se le hace responsable al estudiante?",
-        "Explícame las tareas y deberes que se esperan que cumpla el alumno."
+        "¿De que se le hace responsable al estudiante?",
+        "Explicame las tareas y deberes que se esperan que cumpla el alumno."
       ],
-      "response": "Según el artículo 129, el alumno es responsable del buen uso de las instalaciones, equipo, material de laboratorio y de todo aquello que utilice para su preparación. Queda prohibido el uso de programas de cómputo sin licenciamiento."
+      "response": "Segun el articulo 129, el alumno es responsable del buen uso de las instalaciones, equipo, material de laboratorio y de todo aquello que utilice para su preparacion. Queda prohibido el uso de programas de computo sin licenciamiento."
     },
     {
       "tag": "Derechos_Alumno",
       "patterns": [
-        "¿Cuáles son los derechos del alumno?",
-        "¿Podrías decirme cuáles son los derechos del alumno?",
-        "Dime cuáles son derechos que se reconocen a los estudiantes.",
-        "Explícame los derechos que se les otorgan a los estudiantes en la situación que mencionas."
+        "¿Cuales son los derechos del alumno?",
+        "¿Podrias decirme cuales son los derechos del alumno?",
+        "Dime cuales son derechos que se reconocen a los estudiantes.",
+        "Explicame los derechos que se les otorgan a los estudiantes en la situacion que mencionas."
       ],
-      "response": "Según el articulo 131, el alumno tiene los siguientes derechos: a) Recibir de parte de la institución, información completa y oportuna sobre sus derechos y obligaciones, que incluya su adecuada preparación profesional y cultural. b) Recibir un tratamiento respetuoso por parte de la comunidad universitaria de la Facultad. c) Tener asignado un tutor académico de acuerdo con el programa de tutoría de la Facultad. d) Conocer oportunamente el resultado de las evaluaciones académicas que le sean practicadas. e) Ser atendido y obtener respuesta oportuna de las solicitudes que presente ante las autoridades de la Facultad. f ) Las demás que le otorgue el artículo 95 del Estatuto Orgánico."
+      "response": "Segun el articulo 131, el alumno tiene los siguientes derechos: a) Recibir de parte de la institucion, informacion completa y oportuna sobre sus derechos y obligaciones, que incluya su adecuada preparacion profesional y cultural. b) Recibir un tratamiento respetuoso por parte de la comunidad universitaria de la Facultad. c) Tener asignado un tutor academico de acuerdo con el programa de tutoria de la Facultad. d) Conocer oportunamente el resultado de las evaluaciones academicas que le sean practicadas. e) Ser atendido y obtener respuesta oportuna de las solicitudes que presente ante las autoridades de la Facultad. f ) Las demas que le otorgue el articulo 95 del Estatuto Organico."
     },
     {
       "tag": "Obligaciones_Alumno",
       "patterns": [
-        "¿Cuáles son las obligaciones del alumno?",
-        "¿Podrías detallar cuáles son las obligaciones del alumno?",
-        "Dime más acerca de las responsabilidades que asignan a los estudiantes.",
-        "¿Cuáles son los deberes específicos del alumno?",
-        "Explícame las obligaciones para los estudiantes."
+        "¿Cuales son las obligaciones del alumno?",
+        "¿Podrias detallar cuales son las obligaciones del alumno?",
+        "Dime mas acerca de las responsabilidades que asignan a los estudiantes.",
+        "¿Cuales son los deberes especificos del alumno?",
+        "Explicame las obligaciones para los estudiantes."
       ],
-      "response": "Según el articulo 132, las obligaciones del alumno son: a) Cumplir y respetar las que establece el Estatuto Orgánico de la Universidad, el Reglamento Interno y los reglamentos o manuales que de ellos emanen inherentes a su calidad de alumno de la Facultad. b) Asumir la responsabilidad de mantenerse informado sobre sus derechos y obligaciones, que incluya su adecuada preparación profesional y cultural. c) Dar un trato respetuoso a las autoridades académicas, profesores, administrativos, y demás integrantes de la comunidad universitaria, absteniéndose de ejercer actos de discriminación política, racial, religiosa o de cualquier otra índole. d) Asistir con puntualidad a las clases y a las demás actividades académicas a las que se compromete por su condición de alumno. e) Someterse a todas las evaluaciones que se le programen de acuerdo a su condición de alumno. f) Cumplir con las disposiciones universitarias y de la propia Facultad relativas al consumo de alimentos y productos de tabaco dentro de los salones de clase laboratorios y otros espacios. g) Representar dignamente a la Universidad y a la Facultad en los eventos y actividades en las que participe. h) Pagar oportunamente las cuotas y colegiaturas que se generen por su condición de alumno. i) No usar teléfonos celulares u otros aparatos o dispositivos electrónicos para fines no académicos en salones de clase, laboratorios y otros recintos."
+      "response": "Segun el articulo 132, las obligaciones del alumno son: a) Cumplir y respetar las que establece el Estatuto Organico de la Universidad, el Reglamento Interno y los reglamentos o manuales que de ellos emanen inherentes a su calidad de alumno de la Facultad. b) Asumir la responsabilidad de mantenerse informado sobre sus derechos y obligaciones, que incluya su adecuada preparacion profesional y cultural. c) Dar un trato respetuoso a las autoridades academicas, profesores, administrativos, y demas integrantes de la comunidad universitaria, absteniendose de ejercer actos de discriminacion politica, racial, religiosa o de cualquier otra indole. d) Asistir con puntualidad a las clases y a las demas actividades academicas a las que se compromete por su condicion de alumno. e) Someterse a todas las evaluaciones que se le programen de acuerdo a su condicion de alumno. f) Cumplir con las disposiciones universitarias y de la propia Facultad relativas al consumo de alimentos y productos de tabaco dentro de los salones de clase laboratorios y otros espacios. g) Representar dignamente a la Universidad y a la Facultad en los eventos y actividades en las que participe. h) Pagar oportunamente las cuotas y colegiaturas que se generen por su condicion de alumno. i) No usar telefonos celulares u otros aparatos o dispositivos electronicos para fines no academicos en salones de clase, laboratorios y otros recintos."
     },
     {
-        "tag": "Causas_Responsabilidad_Imputable",
-        "patterns": [
-            "¿Cuáles son las causas de responsabilidad imputable a los alumnos?",            
-            "¿Podrías describir cuáles son las causas de responsabilidad imputable a los alumnos?",
-            "Dime sobre las situaciones que pueden llevar a responsabilidad imputable a los estudiantes.",
-            "¿Cuáles son los motivos por los cuales los alumnos pueden ser considerados responsables imputables según la normativa?",
-            "Explícame las circunstancias que se consideran causas de responsabilidad imputable a los alumnos."
-        ],
-        "response": "Según el Artículo 133, estas son causas de responsabilidad imputable a los alumnos, las que se establecen en los  artículos 108, 110 y 113 del Estatuto Orgánico de la Universidad además de las siguientes: a) Prestar o recibir ayuda fraudulenta, en las evaluaciones o exámenes, o por elaboración, uso o aprovechamiento de documentos falsos y el uso de dispositivos electrónicos para estos fines. b) Utilizar sin autorización los servicios, materiales, equipos o personal de la institución en asuntos particulares. c) Sustraer sin autorización equipo y materiales de la institución. d) Incurrir en actos de violencia física, verbal o a través de medios electrónicos contra los integrantes de la comunidad universitaria y sus visitantes en general. e) Realizar actos que afecten a los intereses de la institución. f) Introducir, portar o consumir bebidas embriagantes, estupefacientes o psicotrópicos, promover su consumo dentro de la Universidad y sus inmediaciones, así como dentro de los vehículos oficiales, o presentarse bajo el influjo de sus efectos. g) Promover o participar en juegos de azar dentro de la institución. h) Realizar actos inmorales dentro de la institución. i) Comprometer con su imprudencia descuido o negligencia, la seguridad del lugar donde realiza sus actividades académicas o de las personas que ahí se encuentren. j) Causar daño a las instalaciones, mobiliario y equipo de la institución. k) Portar armas de cualquier tipo. l) Realizar actividades comerciales dentro de las instalaciones de la Facultad sin la debida autorización de la Dirección o Secretarías de la Facultad. m) Llevar  a  cabo,  dentro  de  las  instalaciones  de  la Facultad, actividades que interrumpan el buen curso de las actividades académicas. En caso de contravenir cualquiera de estas disposiciones, el alumno queda sujeto a las sanciones previstas para cada caso."
+      "tag": "Causas_Responsabilidad_Imputable",
+      "patterns": [
+        "¿Cuales son las causas de responsabilidad imputable a los alumnos?",
+        "¿Podrias describir cuales son las causas de responsabilidad imputable a los alumnos?",
+        "Dime sobre las situaciones que pueden llevar a responsabilidad imputable a los estudiantes.",
+        "¿Cuales son los motivos por los cuales los alumnos pueden ser considerados responsables imputables segun la normativa?",
+        "Explicame las circunstancias que se consideran causas de responsabilidad imputable a los alumnos."
+      ],
+      "response": "Segun el Articulo 133, estas son causas de responsabilidad imputable a los alumnos, las que se establecen en los  articulos 108, 110 y 113 del Estatuto Organico de la Universidad ademas de las siguientes: a) Prestar o recibir ayuda fraudulenta, en las evaluaciones o examenes, o por elaboracion, uso o aprovechamiento de documentos falsos y el uso de dispositivos electronicos para estos fines. b) Utilizar sin autorizacion los servicios, materiales, equipos o personal de la institucion en asuntos particulares. c) Sustraer sin autorizacion equipo y materiales de la institucion. d) Incurrir en actos de violencia fisica, verbal o a traves de medios electronicos contra los integrantes de la comunidad universitaria y sus visitantes en general. e) Realizar actos que afecten a los intereses de la institucion. f) Introducir, portar o consumir bebidas embriagantes, estupefacientes o psicotropicos, promover su consumo dentro de la Universidad y sus inmediaciones, asi como dentro de los vehiculos oficiales, o presentarse bajo el influjo de sus efectos. g) Promover o participar en juegos de azar dentro de la institucion. h) Realizar actos inmorales dentro de la institucion. i) Comprometer con su imprudencia descuido o negligencia, la seguridad del lugar donde realiza sus actividades academicas o de las personas que ahi se encuentren. j) Causar dano a las instalaciones, mobiliario y equipo de la institucion. k) Portar armas de cualquier tipo. l) Realizar actividades comerciales dentro de las instalaciones de la Facultad sin la debida autorizacion de la Direccion o Secretarias de la Facultad. m) Llevar  a  cabo,  dentro  de  las  instalaciones  de  la Facultad, actividades que interrumpan el buen curso de las actividades academicas. En caso de contravenir cualquiera de estas disposiciones, el alumno queda sujeto a las sanciones previstas para cada caso."
     },
     {
       "tag": "Baja_Definitiva",
       "patterns": [
-        "¿Cuáles son causas de baja definitiva del alumno?",
-        "¿Podrías explicar cuáles son las causas que pueden llevar a la baja definitiva del alumno?",
-        "Dime más acerca de las situaciones que se consideran razones para la baja definitiva del estudiante.",
-        "¿Cuáles son los motivos que podrían resultar en la expulsión permanente del alumno según la normativa?",
-        "Explícame las circunstancias que constituyen causas de baja definitiva del alumno."
+        "¿Cuales son causas de baja definitiva del alumno?",
+        "¿Podrias explicar cuales son las causas que pueden llevar a la baja definitiva del alumno?",
+        "Dime mas acerca de las situaciones que se consideran razones para la baja definitiva del estudiante.",
+        "¿Cuales son los motivos que podrian resultar en la expulsion permanente del alumno segun la normativa?",
+        "Explicame las circunstancias que constituyen causas de baja definitiva del alumno."
       ],
-      "response": "Según el artículo 138, las causas de baja definitiva del alumno en la Facultad: a) A solicitud expresa del alumno. b) No acreditar al menos 45 créditos durante su primer ciclo escolar los alumnos de primer  ingreso. c) Agotar las oportunidades para aprobar o acreditar una materia. d) Sobrepasar el límite de 20 oportunidades de reprobar  durante el transcurso de la carrera. Una oportunidad se considera un curso o un examen de regularización. e) Cursar un número de semestres igual a una vez y media la duración de su carrera sin concluirla. f) Sobrepasar el límite de exámenes de regularización establecido en el artículo 185 de este Reglamento."
+      "response": "Segun el articulo 138, las causas de baja definitiva del alumno en la Facultad: a) A solicitud expresa del alumno. b) No acreditar al menos 45 creditos durante su primer ciclo escolar los alumnos de primer  ingreso. c) Agotar las oportunidades para aprobar o acreditar una materia. d) Sobrepasar el limite de 20 oportunidades de reprobar  durante el transcurso de la carrera. Una oportunidad se considera un curso o un examen de regularizacion. e) Cursar un numero de semestres igual a una vez y media la duracion de su carrera sin concluirla. f) Sobrepasar el limite de examenes de regularizacion establecido en el articulo 185 de este Reglamento."
     },
     {
       "tag": "Regularizar_Situación_Académica",
       "patterns": [
-        "¿En qué casos se concede inscripcion por 10 dias segun el Articulo 139?",
-        "¿Qué puede hacerse en el caso de requerir regularizar la situacion académica?",
-        "Dime más acerca de como regularizar mi situación académica.",
-        "¿Qué se puede hacer si se requiere regularizar la situación académica de un estudiante?"
+        "¿En que casos se concede inscripcion por 10 dias segun el Articulo 139?",
+        "¿Que puede hacerse en el caso de requerir regularizar la situacion academica?",
+        "Dime mas acerca de como regularizar mi situacion academica.",
+        "¿Que se puede hacer si se requiere regularizar la situacion academica de un estudiante?"
       ],
-      "response": "Según el artículo 139, en aquellos casos que el interesado requiera regularizar su situación académica, presentando exámenes de regularización sin contar con inscripción en el ciclo escolar, se podrá obtener inscripción por 10 días para tal efecto. De acuerdo con el artículo 28 del Reglamento de Exámenes de la Universidad, esta inscripción no concede derechos estatutarios de alumno."
+      "response": "Segun el articulo 139, en aquellos casos que el interesado requiera regularizar su situacion academica, presentando examenes de regularizacion sin contar con inscripcion en el ciclo escolar, se podra obtener inscripcion por 10 dias para tal efecto. De acuerdo con el articulo 28 del Reglamento de Examenes de la Universidad, esta inscripcion no concede derechos estatutarios de alumno."
     },
     {
       "tag": "Adquirir_Carácter_De_Alumno_Licenciatura",
       "patterns": [
-        "¿Qué requisitos deben cumplirse para adquirir por primera vez el caracter de alumno de licenciatura?",
-        "¿Cuáles son los requisitos necesarios para obtener por primera vez el estatus de alumno de licenciatura?",
-        "Dime más acerca de los criterios que deben cumplirse para adquirir el carácter de estudiante de licenciatura por primera vez.",
-        "¿Cuáles son las condiciones que se deben cumplir para convertirse por primera vez en alumno de licenciatura?",
-        "Explícame los requisitos que se establecen para adquirir inicialmente el estatus de estudiante de licenciatura."
+        "¿Que requisitos deben cumplirse para adquirir por primera vez el caracter de alumno de licenciatura?",
+        "¿Cuales son los requisitos necesarios para obtener por primera vez el estatus de alumno de licenciatura?",
+        "Dime mas acerca de los criterios que deben cumplirse para adquirir el caracter de estudiante de licenciatura por primera vez.",
+        "¿Cuales son las condiciones que se deben cumplir para convertirse por primera vez en alumno de licenciatura?",
+        "Explicame los requisitos que se establecen para adquirir inicialmente el estatus de estudiante de licenciatura."
       ],
-      "response": "Según el artículo 134, para adquirir por primera vez el carácter de alumno de licenciatura en la Facultad, se deben cumplir los siguientes requisitos: a) Ser seleccionado por los resultados obtenidos en el examen de admisión. b) Entregar la documentación requerida, para este fin. c) Concluir el proceso de la inscripción administrativa anual cubriendo las cuotas que determine la Universidad, así como la inscripción académica semestral. d) Establecer por escrito un compromiso de buen comportamiento."
+      "response": "Segun el articulo 134, para adquirir por primera vez el caracter de alumno de licenciatura en la Facultad, se deben cumplir los siguientes requisitos: a) Ser seleccionado por los resultados obtenidos en el examen de admision. b) Entregar la documentacion requerida, para este fin. c) Concluir el proceso de la inscripcion administrativa anual cubriendo las cuotas que determine la Universidad, asi como la inscripcion academica semestral. d) Establecer por escrito un compromiso de buen comportamiento."
     },
     {
-        "tag": "Revalidacion_Convalidacion",
-        "patterns": [
-            "¿Cuáles son los requisitos para la convalidacion de estudio si se proviene de otra escuela o facultad?",
-            "¿Podrías detallar cuáles son los requisitos para la convalidación de estudios al provenir de otra escuela o facultad?",
-            "Dime más acerca de los criterios que se deben cumplir para la convalidación de estudios al trasladarse desde otra institución.",
-            "¿Cuáles son las condiciones que se deben satisfacer para obtener la convalidación de estudios al venir de otra escuela o facultad?",
-            "Explícame los requisitos específicos que se solicitan para la convalidación de estudios al cambiar de institución educativa."
-        ],
-        "response": "Según el artículo 135, los requisitos para la convalidación de estudios para los alumnos que provienen de otra Escuela o Facultad de la Universidad son: a) Cumplir con lo establecido en el artículo 134 de este Reglamento, a excepción del inciso a). b) Tener un avance en la carrera de origen que le permita alcanzar un mínimo de 45 créditos o su equivalente, susceptibles de ser convalidados. c) Contar con la autorización de la Comisión Institucional de Cambios de Carrera. d) Los demás que se indiquen en el Reglamento de Inscripción a la Universidad, el presente reglamento y demás normativa que de él emane." 
+      "tag": "Revalidacion_Convalidacion",
+      "patterns": [
+        "¿Cuales son los requisitos para la convalidacion de estudio si se proviene de otra escuela o facultad?",
+        "¿Podrias detallar cuales son los requisitos para la convalidacion de estudios al provenir de otra escuela o facultad?",
+        "Dime mas acerca de los criterios que se deben cumplir para la convalidacion de estudios al trasladarse desde otra institucion.",
+        "¿Cuales son las condiciones que se deben satisfacer para obtener la convalidacion de estudios al venir de otra escuela o facultad?",
+        "Explicame los requisitos especificos que se solicitan para la convalidacion de estudios al cambiar de institucion educativa."
+      ],
+      "response": "Segun el articulo 135, los requisitos para la convalidacion de estudios para los alumnos que provienen de otra Escuela o Facultad de la Universidad son: a) Cumplir con lo establecido en el articulo 134 de este Reglamento, a excepcion del inciso a). b) Tener un avance en la carrera de origen que le permita alcanzar un minimo de 45 creditos o su equivalente, susceptibles de ser convalidados. c) Contar con la autorizacion de la Comision Institucional de Cambios de Carrera. d) Los demas que se indiquen en el Reglamento de Inscripcion a la Universidad, el presente reglamento y demas normativa que de el emane."
     },
     {
       "tag": "Revalidacion_estudio",
       "patterns": [
-        "¿Cuáles son los requisitos para la revalidacion de estudios si se proviene de otra escuela o facultad?",
-        "¿Podrías detallar cuáles son los requisitos para la revalidación de estudios al provenir de otra escuela o facultad?",
-        "Dime más acerca de los criterios que se deben cumplir para la revalidación de estudios al trasladarse desde otra institución.",
-        "¿Cuáles son las condiciones que se deben satisfacer para obtener la revalidación de estudios al venir de otra escuela o facultad?",
-        "Explícame los requisitos específicos que se solicitan para la revalidación de estudios al cambiar de institución educativa."
+        "¿Cuales son los requisitos para la revalidacion de estudios si se proviene de otra escuela o facultad?",
+        "¿Podrias detallar cuales son los requisitos para la revalidacion de estudios al provenir de otra escuela o facultad?",
+        "Dime mas acerca de los criterios que se deben cumplir para la revalidacion de estudios al trasladarse desde otra institucion.",
+        "¿Cuales son las condiciones que se deben satisfacer para obtener la revalidacion de estudios al venir de otra escuela o facultad?",
+        "Explicame los requisitos especificos que se solicitan para la revalidacion de estudios al cambiar de institucion educativa."
       ],
-      "response": "Según el artículo 136, los requisitos para la revalidación de estudios para los alumnos que provienen de otra institución de educación superior son los que se establecen en el artículo 134 de este Reglamento."
+      "response": "Segun el articulo 136, los requisitos para la revalidacion de estudios para los alumnos que provienen de otra institucion de educacion superior son los que se establecen en el articulo 134 de este Reglamento."
     },
     {
       "tag": "Carácter_Alumno",
       "patterns": [
-        "¿Comó se conserva el caracter de alumno en la Facultad?",
-        "¿Cuáles son los procedimientos para conservar el carácter de alumno en la Facultad?",
-        "Dime más acerca de cómo se mantiene el estatus de alumno en la Facultad.",
-        "¿Qué acciones se deben tomar para preservar el carácter de alumno en la Facultad?",
-        "Explícame los pasos que deben seguirse para mantener el estatus de alumno en la Facultad."
+        "¿Como se conserva el caracter de alumno en la Facultad?",
+        "¿Cuales son los procedimientos para conservar el caracter de alumno en la Facultad?",
+        "Dime mas acerca de como se mantiene el estatus de alumno en la Facultad.",
+        "¿Que acciones se deben tomar para preservar el caracter de alumno en la Facultad?",
+        "Explicame los pasos que deben seguirse para mantener el estatus de alumno en la Facultad."
       ],
-      "response": "Según el artículo 137, para conservar el carácter de alumno en la Facultad se deben cumplir los siguientes requisitos: a) Efectuar semestralmente la Tutoría Académica y la Evaluación Docente en los períodos establecidos por la Facultad. b) No tener adeudos en la Secretaría de Finanzas. c) Concluir el proceso de la inscripción administrativa anual y la inscripción académica semestral. d) Los demás que establece el Estatuto Orgánico, el presente Reglamento y normativa que emane de éste."
-    },   
+      "response": "Segun el articulo 137, para conservar el caracter de alumno en la Facultad se deben cumplir los siguientes requisitos: a) Efectuar semestralmente la Tutoria Academica y la Evaluacion Docente en los periodos establecidos por la Facultad. b) No tener adeudos en la Secretaria de Finanzas. c) Concluir el proceso de la inscripcion administrativa anual y la inscripcion academica semestral. d) Los demas que establece el Estatuto Organico, el presente Reglamento y normativa que emane de este."
+    },
     {
       "tag": "Requitos_Estimulos_Acádemicos",
       "patterns": [
-        "¿Cuáles son los requisitos para aspirar a estimulos academicos?",
-        "¿Podrías detallar cuáles son los requisitos para aspirar a estímulos académicos?",
-        "Dime más acerca de los criterios que deben cumplirse para ser elegible a estímulos académicos.",
-        "¿Cuáles son las condiciones que se deben satisfacer para optar a estímulos académicos?",
-        "Explícame los requisitos específicos que se solicitan para aspirar a estímulos académicos."
+        "¿Cuales son los requisitos para aspirar a estimulos academicos?",
+        "¿Podrias detallar cuales son los requisitos para aspirar a estimulos academicos?",
+        "Dime mas acerca de los criterios que deben cumplirse para ser elegible a estimulos academicos.",
+        "¿Cuales son las condiciones que se deben satisfacer para optar a estimulos academicos?",
+        "Explicame los requisitos especificos que se solicitan para aspirar a estimulos academicos."
       ],
-      "response": "Según el artículo 141, el alumno puede aspirar a los siguientes estímulos académicos: a) Inscribir más de 50 créditos, según lo establecido en los artículos 161, 162 y 163 del presente Reglamento. b) Obtener un lugar preferencial en el orden de inscripción de materias, de acuerdo con el rendimiento que obtuvo en el último semestre registrado en su kárdex. c) Ser candidato a becario. d) Obtener, en la ceremonia de entrega de Cartas de Pasante, un reconocimiento de la Facultad al alcanzar uno de los promedios más altos. e) Obtener el título de Licenciatura mediante la modalidad de Exención de Examen por Promedio, según lo establece el artículo 205 del presente Reglamento. f) Recibir un reconocimiento por parte del H. Consejo Técnico Consultivo al titularse mediante la modalidad de Exención de Examen por Promedio. g) Obtener una mención honorífica por su desempeño académico con base en la normativa aplicable. h) Ser propuesto como candidato para obtener un reconocimiento externo por su desempeño académico, con base en la normativa aplicable."
+      "response": "Segun el articulo 141, el alumno puede aspirar a los siguientes estimulos academicos: a) Inscribir mas de 50 creditos, segun lo establecido en los articulos 161, 162 y 163 del presente Reglamento. b) Obtener un lugar preferencial en el orden de inscripcion de materias, de acuerdo con el rendimiento que obtuvo en el ultimo semestre registrado en su kardex. c) Ser candidato a becario. d) Obtener, en la ceremonia de entrega de Cartas de Pasante, un reconocimiento de la Facultad al alcanzar uno de los promedios mas altos. e) Obtener el titulo de Licenciatura mediante la modalidad de Exencion de Examen por Promedio, segun lo establece el articulo 205 del presente Reglamento. f) Recibir un reconocimiento por parte del H. Consejo Tecnico Consultivo al titularse mediante la modalidad de Exencion de Examen por Promedio. g) Obtener una mencion honorifica por su desempeno academico con base en la normativa aplicable. h) Ser propuesto como candidato para obtener un reconocimiento externo por su desempeno academico, con base en la normativa aplicable."
     },
     {
-        "tag": "Plan_Estudios",
-        "patterns": [
-            "Que es el plan de estudios segun el Articulo 148?",
-            "Quien establece las normas del plan de estudios segun el Articulo 148?",
-            "Hasta cuando debe cumplir un alumno con el plan de estudios?",
-            "Para que sirve el plan de estudios"
-        ],
-        "response": "El plan de estudios es el conjunto de asignaturas, normas y condiciones que el alumno de la Facultad debe cumplir durante su permanencia como estudiante y hasta adquirir la calidad de egresado. Las normas son establecidas desde diferentes ambitos: Universidad, Facultad y Area Academica."
+      "tag": "Plan_Estudios",
+      "patterns": [
+        "Que es el plan de estudios segun el Articulo 148?",
+        "Quien establece las normas del plan de estudios segun el Articulo 148?",
+        "Hasta cuando debe cumplir un alumno con el plan de estudios?",
+        "Para que sirve el plan de estudios"
+      ],
+      "response": "El plan de estudios es el conjunto de asignaturas, normas y condiciones que el alumno de la Facultad debe cumplir durante su permanencia como estudiante y hasta adquirir la calidad de egresado. Las normas son establecidas desde diferentes ambitos: Universidad, Facultad y Area Academica."
     },
     {
       "tag": "Asignatura_Materia",
@@ -354,7 +354,6 @@
         "¿Que impide que un alumno se inscriba en una materia segun el Articulo 151?",
         "¿Cuales son los impedimentos para que un estudiante se matricule en una materia?",
         "¿Cuales son los obstaculos para la inscripcion de un alumno en una materia"
-        
       ],
       "response": "El alumno no puede inscribirse en una materia si no ha aprobado la asignatura establecida como prerrequisito por incompatibilidad, seriacion u otras razones."
     },
@@ -362,10 +361,10 @@
       "tag": "Actividades_Asignatura",
       "patterns": [
         "¿Cuales son las actividades incluidas en una asignatura?",
-        "¿Qué actividades están comprendidas en una asignatura?",
-        "¿Cuáles son las actividades que forman parte de una asignatura?",
-        "¿Qué actividades se incluyen en una asignatura?",
-        "¿Cuáles son las actividades contempladas en una asignatura?"
+        "¿Que actividades estan comprendidas en una asignatura?",
+        "¿Cuales son las actividades que forman parte de una asignatura?",
+        "¿Que actividades se incluyen en una asignatura?",
+        "¿Cuales son las actividades contempladas en una asignatura?"
       ],
       "response": "Una asignatura puede incluir actividades como clase teorica, laboratorio, taller y practica de campo. La clase teorica se realiza para exponer, analizar y evaluar el contenido tematico."
     },
@@ -374,9 +373,9 @@
       "patterns": [
         "¿Que son los laboratorios dentro de una asignatura?",
         "¿Para que son los laboratorios?",
-        "¿Qué propósito cumplen los laboratorios dentro de una asignatura?",
-        "¿Cuál es el rol de los laboratorios en una asignatura?",
-        "¿Para qué se utilizan los laboratorios dentro de una asignatura?"
+        "¿Que proposito cumplen los laboratorios dentro de una asignatura?",
+        "¿Cual es el rol de los laboratorios en una asignatura?",
+        "¿Para que se utilizan los laboratorios dentro de una asignatura?"
       ],
       "response": "El laboratorio es una actividad en instalaciones especificas para demostrar o experimentar sobre los contenidos expuestos en la clase teorica. El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
     },
@@ -385,10 +384,10 @@
       "patterns": [
         "¿Que son los laboratorios dentro de una asignatura?",
         "¿Para que sirven las practicas de campo?",
-        "¿Cuál es la naturaleza de los laboratorios en una asignatura?",
-        "¿Cuál es el propósito de las prácticas de campo?",
-        "¿Qué función cumplen los laboratorios en una asignatura?",
-        "¿Con qué objetivo se llevan a cabo las prácticas de campo?"
+        "¿Cual es la naturaleza de los laboratorios en una asignatura?",
+        "¿Cual es el proposito de las practicas de campo?",
+        "¿Que funcion cumplen los laboratorios en una asignatura?",
+        "¿Con que objetivo se llevan a cabo las practicas de campo?"
       ],
       "response": "El taller refuerza habilidades y destrezas, mientras que la practica de campo se realiza fuera de las instalaciones de la Facultad para que el alumno adquiera conocimientos practicos e indispensables en su profesion."
     },
@@ -410,10 +409,10 @@
       "patterns": [
         "¿Cual es la duracion de los Examenes Parciales ?",
         "¿Cuales son los tipos de examenes mediante los cuales el alumno puede aprobar una asignatura?",
-        "¿Cómo se determina el horario y el aula asignados para los Exámenes Parciales?",
-        "¿Puedes proporcionar más detalles sobre el Examen Ordinario y cuándo se lleva a cabo?",
-        "¿Cuáles son los requisitos para aprobar un Examen Extraordinario?",
-        "¿En qué consiste el Examen a Título de Suficiencia y cuándo puede un estudiante optar por esta modalidad?"
+        "¿Como se determina el horario y el aula asignados para los Examenes Parciales?",
+        "¿Puedes proporcionar mas detalles sobre el Examen Ordinario y cuando se lleva a cabo?",
+        "¿Cuales son los requisitos para aprobar un Examen Extraordinario?",
+        "¿En que consiste el Examen a Titulo de Suficiencia y cuando puede un estudiante optar por esta modalidad?"
       ],
       "response": "La duracion de los Examenes Parciales es de una hora, en el horario y aula asignados (Articulo 182). Los tipos de examenes para aprobar una asignatura son Ordinario, Extraordinario, a Titulo de Suficiencia y de Regularizacion (Articulo 183)."
     },
@@ -422,10 +421,10 @@
       "patterns": [
         "¿En que condiciones el alumno pierde el derecho a presentar cualquier tipo de examen?",
         "¿Como se considera el uso de inscripciones en el caso de no aprobar una asignatura en Examen Ordinario o Extraordinario?",
-        "¿Cuándo pierde un alumno el derecho a presentar exámenes según el Estatuto Orgánico?",
-        "¿Que es elconcepto de 'dos terceras partes de asistencia' y su importancia en la capacidad de un estudiante para realizar exámenes?",
-        "¿Qué implica no aprobar una asignatura en Examen Ordinario o Extraordinario?",
-        "¿Cómo se relaciona el uso de inscripciones con la aprobación o desaprobación de una asignatura en los exámenes según las normativas establecidas?",
+        "¿Cuando pierde un alumno el derecho a presentar examenes segun el Estatuto Organico?",
+        "¿Que es elconcepto de 'dos terceras partes de asistencia' y su importancia en la capacidad de un estudiante para realizar examenes?",
+        "¿Que implica no aprobar una asignatura en Examen Ordinario o Extraordinario?",
+        "¿Como se relaciona el uso de inscripciones con la aprobacion o desaprobacion de una asignatura en los examenes segun las normativas establecidas?",
         "¿Que se entiende por dos terceras partes de asistencia?"
       ],
       "response": "El alumno pierde el derecho a presentar cualquier tipo de examen cuando no acredita dos terceras partes de la asistencia o no acredita el laboratorio de la asignatura en su caso, agotando una de las dos inscripciones que le permite el articulo 100 del Estatuto Organico (Articulo 184). En caso de no aprobar una asignatura en Examen Ordinario o Extraordinario, se considera que el alumno ha hecho uso de una de las dos inscripciones permitidas (Articulo 183)."
@@ -436,10 +435,10 @@
         "¿Quien es el Sinodal Titular en los examenes a Titulo de Suficiencia y de Regularizacion?",
         "¿Como se elabora el examen cuando varios profesores imparten la misma asignatura?",
         "¿Quien aplica los examenes a Titulo de Suficiencia y de Regularizacion?",
-        "¿Cómo se organiza la elaboración del examen en casos donde varios profesores imparten la misma asignatura en los exámenes a título de Suficiencia y Regularización?",
-        "¿Cuál es el papel del Sinodal Secretario durante la aplicación de los exámenes a título de Suficiencia y de Regularización?",
+        "¿Como se organiza la elaboracion del examen en casos donde varios profesores imparten la misma asignatura en los examenes a titulo de Suficiencia y Regularizacion?",
+        "¿Cual es el papel del Sinodal Secretario durante la aplicacion de los examenes a titulo de Suficiencia y de Regularizacion?",
         "¿Como se selecciona al Sinodal Titular?",
-        "¿Qué proceso se sigue para la calificación de los exámenes a título de Suficiencia y de Regularización?"
+        "¿Que proceso se sigue para la calificacion de los examenes a titulo de Suficiencia y de Regularizacion?"
       ],
       "response": "En los examenes a Titulo de Suficiencia y de Regularizacion, el profesor que impartio la asignatura es el Sinodal Titular y se encarga de elaborarlo y calificarlo. Cuando existen dos o mas profesores que imparten la misma asignatura, el examen se elabora de manera colegiada. Los examenes son aplicados por un Sinodal Secretario, designado por el Jefe del Area Academica correspondiente."
     },
@@ -449,10 +448,10 @@
         "¿Que es el examen por derecho de pasantia?",
         "¿Donde se establecen las condiciones y requisitos para el examen por derecho de pasantia?",
         "¿Cual es la finalidad del examen por derecho de pasantia?",
-        "¿Cuáles son los artículos del Reglamento de Examenes que detallan las condiciones y requisitos para el examen por derecho de pasantia?",
-        "¿Cómo se define el éxito en el examen por derecho de pasantia?",
-        "¿Qué materias pueden ser adicionadas al plan de estudios para hacer uso del examen por derecho de pasantia?",
-        "¿Existen restricciones en cuanto al tiempo para presentar el examen por derecho de pasantia después de haber concluido la carrera?"
+        "¿Cuales son los articulos del Reglamento de Examenes que detallan las condiciones y requisitos para el examen por derecho de pasantia?",
+        "¿Como se define el exito en el examen por derecho de pasantia?",
+        "¿Que materias pueden ser adicionadas al plan de estudios para hacer uso del examen por derecho de pasantia?",
+        "¿Existen restricciones en cuanto al tiempo para presentar el examen por derecho de pasantia despues de haber concluido la carrera?"
       ],
       "response": "El examen por derecho de pasantia es el examen que presenta el egresado con la finalidad de aprobar las materias que hayan sido adicionadas al plan de estudios vigente en el momento de haber concluido su carrera. Las condiciones y requisitos para hacer uso de este tipo de examen se establecen en los articulos 32, 33 y 34 del Reglamento de Examenes."
     },
@@ -471,70 +470,92 @@
         "¿Como se puede obtener el titulo de licenciatura ?",
         "¿Cuales son las modalidades de titulacion disponibles para los egresados?",
         "¿Que es el Examen General de Conocimientos?",
-        "¿Cuáles son las opciones para realizar el Trabajo Recepcional como modalidad de titulación?",
-        "¿En qué consiste este proceso sobre la modalidad de titulación mediante Memorias de Actividad Profesional?",
-        "¿Puedes detallar las condiciones para la aprobación de estudios de posgrado como modalidad de obtención del título de licenciatura?",
-        "¿Cuál es la diferencia entre el Examen General de Conocimientos y el Examen General de Egreso de Licenciatura (EGEL)?"
+        "¿Cuales son las opciones para realizar el Trabajo Recepcional como modalidad de titulacion?",
+        "¿En que consiste este proceso sobre la modalidad de titulacion mediante Memorias de Actividad Profesional?",
+        "¿Puedes detallar las condiciones para la aprobacion de estudios de posgrado como modalidad de obtencion del titulo de licenciatura?",
+        "¿Cual es la diferencia entre el Examen General de Conocimientos y el Examen General de Egreso de Licenciatura (EGEL)?"
       ],
       "response": "Los egresados pueden obtener el titulo de licenciatura mediante diversas modalidades como Trabajo Recepcional, Tesis, Trabajo por excelencia, Trabajo Colectivo, Memorias de Actividad Profesional, Examen General de Conocimientos, Curso de Opcion a No Trabajo Recepcional, Aprobacion de Estudios de Posgrado, Exencion de Examen por Promedio, Examen General de Egreso de Licenciatura (EGEL), entre otras, segun el Articulo 201. El Examen General de Conocimientos consta de dos partes a desarrollar por escrito, con duracion de cuatro horas cada una."
     },
     {
       "tag": "Servicio_Social",
       "patterns": [
-        "¿Qué es el Servicio Social?",
-        "¿Quién debe realizar el Servicio Social?",
-        "¿Cuál es el propósito del Servicio Social en la Facultad?",
-        "¿Cuáles son los requisitos específicos para cumplir con el Servicio Social?",
-        "¿Existen restricciones sobre dónde se puede realizar el Servicio Social según las normativas de la Universidad?",
-        "¿Cómo se valida o evalúa la participación del alumno en el Servicio Social?"
+        "¿Que es el Servicio Social?",
+        "¿Quien debe realizar el Servicio Social?",
+        "¿Cual es el proposito del Servicio Social en la Facultad?",
+        "¿Cuales son los requisitos especificos para cumplir con el Servicio Social?",
+        "¿Existen restricciones sobre donde se puede realizar el Servicio Social segun las normativas de la Universidad?",
+        "¿Como se valida o evalua la participacion del alumno en el Servicio Social?"
       ],
-      "response": "El Servicio Social es una actividad profesional obligatoria que el alumno o egresado de licenciatura de la Facultad realiza como requisito para obtener el Título Profesional, según lo establece el artículo 9o. de la Ley de Profesiones y el artículo 70 del Estatuto Orgánico y el Reglamento de Servicio Social de la Universidad Autónoma de San Luis Potosí. En ningún caso, el alumno o egresado debe realizar el servicio social en asociaciones estudiantiles, políticas o religiosas."
+      "response": "El Servicio Social es una actividad profesional obligatoria que el alumno o egresado de licenciatura de la Facultad realiza como requisito para obtener el Titulo Profesional, segun lo establece el articulo 9o. de la Ley de Profesiones y el articulo 70 del Estatuto Organico y el Reglamento de Servicio Social de la Universidad Autonoma de San Luis Potosi. En ningun caso, el alumno o egresado debe realizar el servicio social en asociaciones estudiantiles, politicas o religiosas."
     },
     {
       "tag": "Requisitos_Servicio_Social",
       "patterns": [
-        "¿Cuáles son los requisitos para realizar el Servicio Social?",
-        "¿Cómo puede un alumno de posgrado realizar el Servicio Social?",
-        "¿Cuánto tiempo dura el Servicio Social?",
-        "¿Qué pasa si un alumno no cumple con el porcentaje de créditos requerido para realizar el Servicio Social?",
-        "¿Cuáles son las responsabilidades del Departamento de Prácticas Profesionales y Servicio Social en el proceso de Servicio Social?",
+        "¿Cuales son los requisitos para realizar el Servicio Social?",
+        "¿Como puede un alumno de posgrado realizar el Servicio Social?",
+        "¿Cuanto tiempo dura el Servicio Social?",
+        "¿Que pasa si un alumno no cumple con el porcentaje de creditos requerido para realizar el Servicio Social?",
+        "¿Cuales son las responsabilidades del Departamento de Practicas Profesionales y Servicio Social en el proceso de Servicio Social?",
         "¿Existen opciones para realizar el Servicio Social de manera virtual o a distancia?",
-        "¿Cuáles son las consecuencias de no completar las 480 horas de Servicio Social en el tiempo establecido?"
+        "¿Cuales son las consecuencias de no completar las 480 horas de Servicio Social en el tiempo establecido?"
       ],
-      "response": "Para realizar el Servicio Social, el alumno debe haber aprobado al menos el 70% de los créditos de su carrera y cumplir con los requisitos que establece su Área Académica, a través del Departamento de Prácticas Profesionales y Servicio Social de la Facultad. El alumno de posgrado puede realizar el Servicio Social desde el inicio de sus estudios, cumpliendo con los requisitos establecidos por el Área de Investigación y Posgrado.La duración del servicio social deberá ser de 480 horas, realizadas en un tiempo no menor de seis meses continuos, ni mayor de un año. "
+      "response": "Para realizar el Servicio Social, el alumno debe haber aprobado al menos el 70% de los creditos de su carrera y cumplir con los requisitos que establece su Area Academica, a traves del Departamento de Practicas Profesionales y Servicio Social de la Facultad. El alumno de posgrado puede realizar el Servicio Social desde el inicio de sus estudios, cumpliendo con los requisitos establecidos por el Area de Investigacion y Posgrado.La duracion del servicio social debera ser de 480 horas, realizadas en un tiempo no menor de seis meses continuos, ni mayor de un ano. "
     },
     {
       "tag": "Simbolos_Facultad",
       "patterns": [
-        "¿Cuáles son los símbolos de la Facultad?",
-        "¿Cómo se describe el escudo de la Facultad?",
-        "¿Qué colores representan a la Facultad?"
+        "¿Cuales son los simbolos de la Facultad?",
+        "¿Como se describe el escudo de la Facultad?",
+        "¿Que colores representan a la Facultad?"
       ],
-      "response": "Los símbolos de la Facultad incluyen el nombre, el lema, el escudo y los colores. El escudo de la Facultad obedece a una descripción específica, destacando la presencia de San Luis Rey, emblema del Estado y de la Ciudad de San Luis Potosí, así como emblemas que muestran caracteres relevantes de la ingeniería. Los colores que representan a la Facultad son el C. Rojo PANTONE 200c y el blanco."
+      "response": "Los simbolos de la Facultad incluyen el nombre, el lema, el escudo y los colores. El escudo de la Facultad obedece a una descripcion especifica, destacando la presencia de San Luis Rey, emblema del Estado y de la Ciudad de San Luis Potosi, asi como emblemas que muestran caracteres relevantes de la ingenieria. Los colores que representan a la Facultad son el C. Rojo PANTONE 200c y el blanco."
     },
     {
       "tag": "Uso_Simbolos",
       "patterns": [
-        "¿Quién puede utilizar el lema de la Facultad ?",
-        "¿Cómo debe figurar el escudo en la papelería oficial?",
-        "¿Cuándo se permite el uso de los símbolos de la Facultad?",
-        "¿En qué situaciones el uso indebido de los símbolos de la Facultad puede dar lugar a sanciones?",
-        "¿Cuál es la política respecto al uso de los símbolos de la Facultad en documentos particulares?",
-        "¿Qué consecuencias puede tener el no seguir las normativas sobre el uso de los símbolos en la papelería oficial?",
-        "¿Puede haber excepciones para el uso de los símbolos de la Facultad en vehículos no oficiales?"
+        "¿Quien puede utilizar el lema de la Facultad ?",
+        "¿Como debe figurar el escudo en la papeleria oficial?",
+        "¿Cuando se permite el uso de los simbolos de la Facultad?",
+        "¿En que situaciones el uso indebido de los simbolos de la Facultad puede dar lugar a sanciones?",
+        "¿Cual es la politica respecto al uso de los simbolos de la Facultad en documentos particulares?",
+        "¿Que consecuencias puede tener el no seguir las normativas sobre el uso de los simbolos en la papeleria oficial?",
+        "¿Puede haber excepciones para el uso de los simbolos de la Facultad en vehiculos no oficiales?"
       ],
-      "response": "El escudo y el nombre deben figurar en la papelería oficial de la Facultad, y queda prohibido utilizarlos en documentos particulares. Pueden utilizarse en los vehículos oficiales de la Facultad. El uso indebido de los símbolos de la Facultad es motivo de sanción por parte de las autoridades correspondientes."
+      "response": "El escudo y el nombre deben figurar en la papeleria oficial de la Facultad, y queda prohibido utilizarlos en documentos particulares. Pueden utilizarse en los vehiculos oficiales de la Facultad. El uso indebido de los simbolos de la Facultad es motivo de sancion por parte de las autoridades correspondientes."
     },
     {
-    "tag": "Examen_Derecho_Pasantía",
-    "patterns": [
-      "¿Qué es el examen por derecho de pasantía?",
-      "¿Cual es el propósito del examen por derecho de pasantía?",
-      "¿Quiénes deben presentar el examen por derecho de pasantía?",
-      "¿En qué consiste el proceso de aprobación de materias adicionadas al plan de estudios?",
-      "¿Cual es el examen que los egresados presentan para aprobar materias adicionadas al plan de estudios?"
-    ],
-    "response": "El examen por derecho de pasantía es aquella evaluación que realiza el egresado con el objetivo de aprobar las materias que hayan sido adicionadas al plan de estudios vigente al momento de haber concluido su carrera. Este proceso permite a los egresados cumplir con los requisitos académicos de las nuevas materias incorporadas después de su graduación."
-  } 
+      "tag": "Examen_Derecho_Pasantía",
+      "patterns": [
+        "¿Que es el examen por derecho de pasantia?",
+        "¿Cual es el proposito del examen por derecho de pasantia?",
+        "¿Quienes deben presentar el examen por derecho de pasantia?",
+        "¿En que consiste el proceso de aprobacion de materias adicionadas al plan de estudios?",
+        "¿Cual es el examen que los egresados presentan para aprobar materias adicionadas al plan de estudios?"
+      ],
+      "response": "El examen por derecho de pasantia es aquella evaluacion que realiza el egresado con el objetivo de aprobar las materias que hayan sido adicionadas al plan de estudios vigente al momento de haber concluido su carrera. Este proceso permite a los egresados cumplir con los requisitos academicos de las nuevas materias incorporadas despues de su graduacion."
+    },
+    {
+      "tag": "Saludo",
+      "patterns": [
+        "Hola",
+        "¡Hola!",
+        "Buenos dias",
+        "¿Como estas?",
+        "Saludos"
+      ],
+      "response": "¡Hola!, No dudes en preguntar!"
+    },
+    {
+      "tag": "Agradecimiento",
+      "patterns": [
+        "Gracias",
+        "¡Gracias!",
+        "Agradecido",
+        "Te agradezco",
+        "Mil gracias"
+      ],
+      "response": "De nada, estoy aqui para ayudar. ¿Hay algo mas en lo que pueda asistirte?"
+    }
   ]
 }
