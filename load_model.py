@@ -13,7 +13,7 @@ lemmatizer = WordNetLemmatizer()
 #  with open('chat_model/folder_value.txt', 'r') as file:
 #    return file.read().strip()
 
-folder = "Habitat"
+folder = "Ingenieria"
 
 print(f"El valor para la carpeta del modelo es: {folder}")
 # loading the files we made previously
